@@ -1,9 +1,9 @@
 # Setup
 title: Dark Poole
-url: https://andrewhwanpark.github.io/dark-poole
+url: https://vess-dev.github.io
 paginate: 1
-paginate_path: "/dark-poole/page:num/"
-baseurl: "/dark-poole"
+paginate_path: "/page:num/"
+baseurl: "/"
 permalink: pretty
 
 # Gems
@@ -43,7 +43,7 @@ version: 3.0.0
 # Navbar page list
 nav:
   - title: Blog
-    url: /dark-poole/archive
+    url: /archive
 
   - title: About
-    url: /dark-poole/about
+    url: /about

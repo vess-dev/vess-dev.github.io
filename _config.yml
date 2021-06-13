@@ -1,5 +1,5 @@
 # Setup
-title: Dark Poole
+title: Thought Bucket
 url: https://vess-dev.github.io
 paginate: 1
 paginate_path: "/page:num/"
@@ -33,16 +33,16 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Vess
+  url: vess-dev.github.io
+  email: vess.contact@protonmail.com
 
 # Custom vars
 version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
+  - title: Library
     url: /archive
 
   - title: About

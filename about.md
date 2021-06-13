@@ -5,11 +5,10 @@ title: About
 
 Hello there, my name is Vess.
 
-This is a corner where I'll put my thoughts.
+This is a corner where I put my thoughts.
 
-If you have some thoughts of your own,
-Feel free to shoot me an email at:
+Feel free to email me about them at:
 
-vess.contact@protonmail.com
+<strong>vess.contact@protonmail.com</strong>
 
 May your path be blessed.

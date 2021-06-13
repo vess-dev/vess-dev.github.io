@@ -1,5 +1,5 @@
 # Setup
-title: Thought Bucket
+title: Vess's Thought Corner
 url: https://vess-dev.github.io
 paginate: 1
 paginate_path: "/page:num/"
@@ -42,7 +42,7 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Library
+  - title: Archive
     url: /archive
 
   - title: About

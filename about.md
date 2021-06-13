@@ -9,12 +9,12 @@ This is a corner where I put my thoughts.
 
 Feel free to message me about them at:
 
-Email: <strong>vess.contact@protonmail.com</strong>
+Email: <a href="mailto: vess.contact@protonmail.com">vess.contact@protonmail.com</a>
 
 May your path be blessed.
 
 ## Credits
 
-Github Repo: <link href="https://github.com/vess-dev/vess-dev.github.io">https://github.com/vess-dev/vess-dev.github.io</link>
+Github Repo: <a href="https://github.com/vess-dev/vess-dev.github.io">https://github.com/vess-dev/vess-dev.github.io</a>
 
-Forked from: <link href="https://github.com/andrewhwanpark/dark-poole">https://github.com/andrewhwanpark/dark-poole</link>
+Forked from: <a href="https://github.com/andrewhwanpark/dark-poole">https://github.com/andrewhwanpark/dark-poole</a>

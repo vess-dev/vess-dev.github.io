@@ -1,5 +1,6 @@
 # Setup
 title: Vess's Thought Corner
+tagline: This is a corner where I put my thoughts.
 url: https://vess-dev.github.io
 paginate: 1
 paginate_path: "/page:num/"

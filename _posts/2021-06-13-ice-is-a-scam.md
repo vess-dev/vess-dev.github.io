@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Thought) | Ice is a Scam | 300 words
+title: Thought | Ice is a Scam | 300 words
 ---
 
 ![Ice](/assets/ice.jpg "A picture of ice.")
@@ -15,7 +15,7 @@ When you go to a fast food joint and grab a drink to go, often your cup is full 
 2. More ice that will water down and dilute what you have to drink.
 3. A cup of leftover ice that \*could\* have been space for more liquid.
 
-Of course most people would respond rather quickly: <em>"But I like my drink cold! The ice keeps it cold!"</em> And assuredly, I do not disagree with this. While the notion of a cold drink with ice is a rather <a href="https://www.smithsonianmag.com/arts-culture/why-dont-other-countries-use-ice-cubes-50361097">western notion,</a> I too am fond of a cold drink on these recently hot summer days. But consider the following:
+Of course most people would respond rather quickly: <em>"But I like my drink cold! The ice keeps it cold!"</em> And assuredly, I do not disagree with this. While the notion of a cold drink with ice is a rather <a href="https://www.smithsonianmag.com/arts-culture/why-dont-other-countries-use-ice-cubes-50361097">western notion,</a> I too am fond of a chilled beverage on these recently hot summer days. But consider the following:
 
 1. The drink comes out of the machine already frigidly cold.
 2. You often will finish drinking it by the time it would have gotten warm.

@@ -5,8 +5,6 @@ title: Archive
 
 # Archive
 
-Browse all posts by month and year.
-
 <hr>
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
@@ -22,5 +20,3 @@ Browse all posts by month and year.
   <hr>
 
 {% endfor %}
-
-<hr>

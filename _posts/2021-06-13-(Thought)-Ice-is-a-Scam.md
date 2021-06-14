@@ -23,4 +23,6 @@ Of course most people would respond rather quickly: <em>"But I like my drink col
 
 Then people generally respond in a different way. <em>"Soda is cents on the dollar. Why would they need to dilute it?"</em> And this I must contend with. While the amount of soda is perhaps <em>nearly</em> negligible, it is not <strong>entirely</strong> so. Even a few cents adds up over the hundreds of drinks any fast food place will serve over the course of a day.
 
-Additionally, if you find that you always seem to finish your drink with ice leftover, would you not also finish it in time before it warmed up? 
+Additionally, if you find that you always seem to finish your drink with ice leftover, would you not also finish it in time before it warmed up?
+
+I rest my case. Perhaps next time you get a drink- consider getting less ice. Don't let the system win.

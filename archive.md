@@ -7,6 +7,8 @@ title: Archive
 
 Browse all posts by month and year.
 
+<hr>
+
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for yearMonth in postsByYearMonth %}
 
@@ -16,4 +18,9 @@ Browse all posts by month and year.
       <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+
+  <hr>
+
 {% endfor %}
+
+<hr>

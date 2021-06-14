@@ -26,3 +26,5 @@ Then people generally respond in a different way. <em>"Soda is cents on the doll
 Additionally, if you find that you always seem to finish your drink with ice leftover, would you not also finish it in time before it warmed up?
 
 I rest my case. Perhaps next time you get a drink- consider getting less ice. Don't let the system win.
+
+<hr>

@@ -22,3 +22,5 @@ Email: <a href="mailto: vess.contact@protonmail.com">vess.contact@protonmail.com
 Github Repo: <a href="https://github.com/vess-dev/vess-dev.github.io">https://github.com/vess-dev/vess-dev.github.io</a>
 
 Forked from: <a href="https://github.com/andrewhwanpark/dark-poole">https://github.com/andrewhwanpark/dark-poole</a>
+
+<hr>

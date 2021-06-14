@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Thought) Ice is a Scam
+title: (Thought) | Ice is a Scam | 300 words
 ---
 
 ![Ice](/assets/ice.jpg "A picture of ice.")

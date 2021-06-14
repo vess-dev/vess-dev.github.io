@@ -9,7 +9,7 @@ title: About
 
 Hello there! My name is Vess.
 
-This is a corner of the internet where I'll put my thoughts.
+This is a corner of the internet where I put my thoughts.
 
 Feel free to message me about them at:
 

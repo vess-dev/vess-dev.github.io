@@ -5,6 +5,8 @@ title: Archive
 
 # Archive
 
+![Books](/assets/books.jpg "A picture of some books.")
+
 <hr>
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}

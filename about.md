@@ -3,6 +3,10 @@ layout: page
 title: About
 ---
 
+![Mouse](/assets/mouse.jpg "A picture of satan.")
+
+<hr>
+
 Hello there, my name is Vess.
 
 This is a corner where I put my thoughts.
@@ -11,7 +15,7 @@ Feel free to message me about them at:
 
 Email: <a href="mailto: vess.contact@protonmail.com">vess.contact@protonmail.com</a>
 
-May your path be blessed.
+<hr>
 
 ## Credits
 

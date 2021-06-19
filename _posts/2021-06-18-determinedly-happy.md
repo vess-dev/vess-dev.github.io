@@ -89,7 +89,7 @@ I'm afraid of dogs. When I was a wee lass a family dog attacked me and bit me. N
 
 And that... Is incredibly frustrating to me. How do I bring myself to overcome startling at dogs? To overcome the nature and nurture? A year of therapy for something that became so deeply ingrained in a split second moment? How do I deal with the biases that become rooted in me while I'm getting the therapy in the following months? It's impossible. And it sucks. It's a fact of life that many of us are unaware of, some of us willfully ignorant of, and it guides our every thought and action. This is generally what's referred to as unconscious biases when discussing systemic issues. And as you may see they're terribly difficult to combat.
 
-For what it's worth I try and critically view why I think about certain things the way I do- I try to find and rip out these biases as actively as I can. But it's... Really quite difficult. And certainly throws a wrench in the idea of "free will". It also makes it impossible to convince your friends of different ideas, views, or beliefs- as you may be struggling with doing so right now as you read this.
+For what it's worth I try and critically view why I think about certain things the way I do- I try to find and rip out these biases as actively as I can. But it's... Really quite difficult. And certainly throws a wrench into the idea of truly "free will". It also makes it nearly impossible to convince your friends of different ideas, views, or beliefs- as I'm probably struggling to do so right now with you as you read this.
 
 "It's easier to fool people than to convince them that they have been fooled."
 

@@ -33,7 +33,7 @@ A simple explanation of determinism is that it's a school of thought that "free 
 1. The physical reality of what our brains are and how they operate.
 2. The lack of wiggle room between both nature and nurture.
 
-Disclaimer: If you're religious you can simply respond with "I have a soul, my free will stems from that- not a physical reality." and you've won. I can't <em>\*prove\*</em> you wrong, and you are incapable of proving yourself right. <a href="https://en.wikipedia.org/wiki/Predestination_in_Calvinism">Here's an article you may find more fun in that case.</a>
+Disclaimer: If you're religious you can simply respond with "I have a soul, my free will stems from that- not a physical reality." and you've won. I can't <em>\*prove\*</em> you wrong, and you are incapable of proving yourself right. But perhaps consider this article on determinism from the perspective of, <a href="https://en.wikipedia.org/wiki/Predestination_in_Calvinism">does god know the sins I will make before I make them?</a>
 
 ### 1. The Physical Reality
 

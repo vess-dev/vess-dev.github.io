@@ -113,11 +113,11 @@ We can't live in a world where people kill eachother with little to no justifica
 
 	"If everything is determined, what's the point of living?"
 
-Honestly? I have no idea. I suppose you have to \*choose\* your own reason. If you're an atheist and you're reading this, you probably already have chosen your own reason. However biting the bullet of determinism makes it a tad bit harder, doesn't it? (It's funny the religious debate over this exact thing- <a href="https://en.wikipedia.org/wiki/Predestination_in_Calvinism">God being their form</a> of the issue of determinism.) It's one thing to at first accept there is no god and there is no ultimate plan for yourself- and then another thing entirely to accept there infact is a plan- one that you literally can never deviate from. It is <strong>THE</strong> plan you were fated to follow since the very BEGINNING. In many ways that's kind of shitty. But in many ways it's also freeing.
+Honestly? I have no idea. I suppose you have to \*choose\* your own reason. If you're an atheist and you're reading this, you probably already have chosen your own reason. However biting the bullet of determinism makes it a tad bit harder, doesn't it? (The religious debate over this exact thing- <a href="https://en.wikipedia.org/wiki/Predestination_in_Calvinism">God being their form</a> of the issue of determinism.) It's one thing to at first accept there is no god and there is no ultimate plan for yourself- and then another thing entirely to accept there infact is a plan- one that you literally can never deviate from. It is <strong>THE</strong> plan you were fated to follow since the very BEGINNING. In many ways that's kind of shitty. But in many ways it's also freeing.
 
 Any bad thing that happens to you? It was always going to. You are not being targeted by the universe- it just was fated to happen.
 
-You make a mistake? No worries. Not really your fault. Still something you should learn from, of course, but don't sweat it that hard. You wouldn't have \*not\* made the mistake in the first place.
+You make a mistake? No worries. Not really your fault. Still something you should learn from, of course, but don't sweat it that hard. You wouldn't have \*not\* made that mistake in the first place.
 
 And the good things that happen to you? You, in a way, deserve them. They were fated FOR <strong>YOU</strong> and no one else. Enjoy them. Look forward to them!
 

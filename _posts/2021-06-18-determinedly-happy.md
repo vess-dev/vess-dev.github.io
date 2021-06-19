@@ -37,7 +37,7 @@ Disclaimer: If you're religious you can simply respond with "I have a soul, my f
 
 ### 1. The Physical Reality
 
-We exist in a reality of rules. Science for the past X amount of years has been a series of continuous trials of testing the boundaries of these rules, how they work, and how we can exploit them. Let's walk through a straightforward example of how these rules relate to determinism, (If you're a smart cookie you know where I'm going with this.) and then tackle the obvious complex example that follows.
+We exist in a reality of rules. Science for the past few hundred years has been a series of continuous trials of testing the boundaries of these rules, how they work, and how we can exploit them. Let's walk through a straightforward example of how these rules relate to determinism, (If you're a smart cookie you know where I'm going with this.) and then tackle the obvious complex example that follows.
 
 Let's say you have a ball at the top of a hill.
 

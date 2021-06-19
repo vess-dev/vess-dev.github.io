@@ -3,7 +3,7 @@ layout: post
 title: Thought | Ice is a Scam | 300 words
 ---
 
-![Ice](/assets/ice.jpg "A picture of ice.")
+![Drink](/assets/drink.jpg "A picture of an iced drink.")
 
 <hr>
 
@@ -19,7 +19,7 @@ Of course most people would respond rather quickly: <em>"But I like my drink col
 
 1. The drink comes out of the machine already frigidly cold.
 2. You often will finish drinking it by the time it would have gotten warm.
-3. You still could have done with less ice by the simple fact of how much is left over.
+3. You still could have done with less ice by the simple fact of how much is usually left over.
 
 Then people generally respond in a different way. <em>"Soda is cents on the dollar. Why would they need to dilute it?"</em> And this I must contend with. While the amount of soda is perhaps <em>nearly</em> negligible, it is not <strong>entirely</strong> so. Even a few cents adds up over the hundreds of drinks any fast food place will serve over the course of a day.
 

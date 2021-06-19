@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Essay | Determinedly Happy | X words
+title: Essay | Determinedly Happy | 2400 words
 ---
 
 ![Dominoes](/assets/dominoes.jpg "A picture of pizza.")

@@ -51,7 +51,7 @@ But "A-ha!" you cry, what about friction?
 
 Of course of course. They take another hour, adjust for friction, and come back with yet an even closer answer.
 
-OBJECTION: What about slight fluctuations in quantum particles that bubble up the layers of reality into our larger observable physical universe, causing slightly divergent behavior than would have been expected? Your answer will never be spot on. To measure these particles would require you to test their state- and by testing their state you inherently alter it.
+<strong>OBJECTION:</strong> What about slight fluctuations in quantum particles that bubble up the layers of reality into our larger observable physical universe, causing slightly divergent behavior than would have been expected? Your answer will never be spot on. To measure these particles would require you to test their state- and by testing their state you inherently alter it.
 
 Well... On that you'd be correct. At least <em>almost</em> correct. But we'll come back to that in the complex example. For now let's say that the IBM5100 personal supercomputer gets a teensy upgrade: <em>It now belongs to <a href="https://en.wikipedia.org/wiki/The_Last_Question">Asimov</a> and was culpable for the creation of our universe.</em> While this was widely regarded as a <a href="https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy">bad move,</a> it lets our supercomputer know the current state of all things without having to test them, as it was the progenitor of them- and it's a simply trivial exercise to crunch the numbers and figure out what each successive state of the universe will be.
 

@@ -119,7 +119,7 @@ Any bad thing that happens to you? It was always going to. You are not being tar
 
 You make a mistake? No worries. Not really your fault. Still something you should learn from, of course, but don't sweat it that hard. You wouldn't have \*not\* made the mistake in the first place.
 
-And the good things that happen to you? You, in a way, deserve them. They were fated FOR <strong>YOU</strong> and no one else. Enjoy them.
+And the good things that happen to you? You, in a way, deserve them. They were fated FOR <strong>YOU</strong> and no one else. Enjoy them. Look forward to them!
 
 Regardless... Despite determinism, you determine how to feel and react to it. Or do you? <em>Haha... <strong>:^)</strong></em>
 

@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![Mouse](/assets/mouse.jpg "A picture of satan.")
+![Mouse](/assets/mouse.jpg "A picture of satan, Teemo.")
 
 <hr>
 

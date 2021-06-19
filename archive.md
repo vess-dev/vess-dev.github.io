@@ -5,7 +5,7 @@ title: Archive
 
 # Archive
 
-![Books](/assets/books.jpg "A picture of some books.")
+![Books](/assets/books.jpg "A picture of some books no older than your mom.")
 
 <hr>
 

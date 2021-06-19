@@ -31,6 +31,6 @@ I rest my case. Perhaps next time you get a drink- consider getting less ice. Do
 
 Cheers, and thanks for reading.
 
-&nbsp;- Vess
+- Vess
 
 <hr>

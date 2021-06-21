@@ -29,7 +29,7 @@ To then discuss the second point, I feel as if the practice builds off of determ
 
 Of course they're also as meant for me as the bowl of cereal I ate this morning was.
 
-So c'est la vie. Can't win them all. I just find tarot... Appealing, for the aforementioned reasons. And maybe you do now too, even slightly.
+So c'est la vie. Can't win them all. I just find tarot... Appealing, for the aforementioned reasons. And maybe you do too now, even slightly.
 
 <hr>
 

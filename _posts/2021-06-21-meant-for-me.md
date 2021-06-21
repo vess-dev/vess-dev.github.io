@@ -10,7 +10,7 @@ title: Thought | Meant for Me | 800 words
 This article requires a cursory understanding of determinism, which you can <a href="https://vess-dev.github.io/2021/06/18/determinedly-happy/">read about here.</a>
 {: .message }
 
-Let's talk about <em>tarot.</em>
+Let's talk about <a href="https://en.wikipedia.org/wiki/Tarot"><em>tarot.</em></a>
 
 I've always personally had a rather poor opinion of astrology, horoscopes, crystals, fortunes, and the various other diet-occultism related practices that seem like what American Japanese food is to actual Japanese food: a bland caricature devoid of heart and soul- meant only to cursorily entertain the masses and those unwilling to dedicate themselves to stricter practices and principles. 
 

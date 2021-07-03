@@ -20,7 +20,7 @@ In this essay, like many of the others written and yet to come- I'm simply putti
 
 To explain that remark, let's talk about <a href="https://en.wikipedia.org/wiki/Social_intuitionism">moral dumbfounding.</a> Moral dumbfounding is the idea that a lot of our moral positions in society are reached by the majority of people merely by a form of social osmosis. You share moral positions with your family, friends, or coworkers, simply because it's "right", it's easy to do so, it helps you work with others, and you've never really \*had\* to put critical thought towards it. For a quick example let's take one of the "harder" ethical topics for people to wrap their head around, and turn it into a back and forth discussion to highlight when and where the <strong>dumbfounding</strong> happens.
 
-Disclaimer: If your first knee-jerk reaction to the following topic is disgust and disdain, I implore you to put aside your bias and your <em><strong>emotions</strong></em> and consider the following set of statements logically and impartially. Basically: Be an adult. For a lot of adults this is incredibly hard... But I believe in you.
+Disclaimer: If your first knee-jerk reaction to the following topic is disgust and disdain, I implore you to put aside your bias and your <em><strong>emotions</strong></em> and consider the following set of statements logically and impartially. I believe in you.
 
 <hr>
 

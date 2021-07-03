@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Essay | Moral Meat Eating | 1500 words
+title: Essay | Moral Meat Eating | 1600 words
 ---
 
 ![Cattle](/assets/cattle.jpg "A picture of a big friend... Or hamburger?")

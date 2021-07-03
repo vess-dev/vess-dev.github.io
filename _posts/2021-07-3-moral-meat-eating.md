@@ -18,7 +18,7 @@ I'm not going to try and proselytize to you- but this article may come across as
 
 In this essay, like many of the others written and yet to come- I'm simply putting down the process at which I arrived to my currently held opinions. Nothing more, nothing less. So by the end of this- if you're still reading, feel free to disagree with me- but this is why <em>I</em> believe what <em><strong>I</strong></em> believe. And to be frank I could care less about what <em>others</em> generally believe. Because generally others believe a lot of things they've never gone out of their way to intentionally research, back up, and/or justify.
 
-To explain that remark, let's talk about <a href="https://en.wikipedia.org/wiki/Social_intuitionism">moral dumbfounding.</a> Moral dumbfounding is the idea that a lot of our moral positions in society are reached by the majority of people merely by a form of social osmosis. You share moral positions with your family- friends- and coworkers- simply because it's "right" and easy to do, it helps you work with others, and you've never really \*had\* to put critical thought towards it. For a quick example let's take one of the "harder" ethical topics for people to wrap their head around, and turn it into a back and forth discussion to highlight when and where the <strong>dumbfounding</strong> happens.
+To explain that remark, let's talk about <a href="https://en.wikipedia.org/wiki/Social_intuitionism">moral dumbfounding.</a> Moral dumbfounding is the idea that a lot of our moral positions in society are reached by the majority of people merely by a form of social osmosis. You share moral positions with your family- friends- and coworkers- simply because it's "right" and easy to do, it helps you work with others, and you've never really \*had\* to put critical thought towards it. For a quick example let's take one of the "harder" ethical topics for people to wrap their head around and turn it into a back and forth discussion to highlight when and where the <strong>dumbfounding</strong> happens.
 
 Disclaimer: If your first knee-jerk reaction to the following topic is disgust and disdain, I implore you to put aside your bias and your <em><strong>emotions</strong></em> and consider the following set of statements logically and impartially. I believe in you.
 
@@ -40,7 +40,7 @@ Disclaimer: If your first knee-jerk reaction to the following topic is disgust a
 
 <strong>Average Person:</strong> Well... I guess not. But what about the <em>genetic defects!</em> Bringing a life into this world that you know will have developmental issues is immoral!
 
-<em>"You would tell those that knowingly have children with autism, down syndrome, and the like, that their actions are immoral? And what if the incestuous couple uses protection? Or if they're gay?"</em>
+<em>"You would tell those that knowingly have children with autism and down syndrome and the like, that their actions are immoral? And what if the incestuous couple uses protection? Or if they're gay?"</em>
 
 <strong>Average Person:</strong> Well- perhaps not. And also, what kind of relationship could you construct that deflects all of these then?
 

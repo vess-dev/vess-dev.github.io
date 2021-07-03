@@ -116,11 +116,13 @@ For what it's worth I'll explain the middle ground that I've carved out for myse
 
 So when it comes to meat... Chickens and fish (Excluding octopus.) are fair game to me. They're rather stupid- and while they can <a href="https://www.scienceworld.ca/stories/chickens-can-do-math">learn some higher concepts,</a> they are not on the same playing field as cows and pigs and the like.
 
-For a few weeks now, and for as long as I continue hold to this ethical view, I will consume only poultry, fish, or the meat of other "dumb" animals. Everything else seems... Unabashedly cruel. And hypocritical. When we finally perfect lab grown meat perhaps we will move beyond this caveman style of survival. But until then... I find moral comfort in this line in the sand I've drawn.
+For a few weeks now, and for as long as I continue hold to this ethical view, I will consume only poultry, fish, and the meat of other "dumb" animals. Everything else seems... Unabashedly cruel. And hypocritical. When we finally perfect lab grown meat perhaps we will move beyond this caveman style of survival. But until then... I find moral comfort in this line in the sand I've drawn.
 
 Where is your line in the sand?
 
-Why?
+Do you even have one?
+
+Why not?
 
 <hr>
 

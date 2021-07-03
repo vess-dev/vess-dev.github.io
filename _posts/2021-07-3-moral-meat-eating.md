@@ -98,7 +98,7 @@ We fuck them forcibly so they create even softer forms of juicy baby meat- and m
 
 <hr>
 
-![ethics](/assets/ethics.jpg "A picture of two badly named cities.")
+![Ethics](/assets/ethics.jpg "A picture of two badly named cities.")
 
 <hr>
 

@@ -17,6 +17,12 @@ Email: <a href="mailto: vess.contact@protonmail.com">vess.contact@protonmail.com
 
 <hr>
 
+A thought is <1000 words.
+
+An essay is >1000 words.
+
+<hr>
+
 ## Credits
 
 Github repo: <a href="https://github.com/vess-dev/vess-dev.github.io">https://github.com/vess-dev/vess-dev.github.io</a>

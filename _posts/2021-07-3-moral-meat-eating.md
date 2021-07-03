@@ -18,7 +18,7 @@ I'm not going to try and proselytize to you- but this article may come across as
 
 In this essay, like many of the others written and yet to come- I'm simply putting down the process at which I arrived to my currently held opinions. Nothing more, nothing less. So by the end of this- if you're still reading, feel free to disagree with me- but this is why <em>I</em> believe what <em><strong>I</strong></em> believe. And to be frank I could care less about why <em>you</em> believe what <em><strong>you</strong></em> believe. Because generally <em><strong>you</strong></em> believe a lot of things you've never gone out of your way to intentionally research, back up, and/or justify. No offense...
 
-To explain that remark, let's talk about <a href="https://en.wikipedia.org/wiki/Social_intuitionism">moral dumbfounding.</a> Moral dumbfounding is the idea that a lot of our moral positions in society are reached by the majority of people merely by a form of social osmosis. You share moral positions with your family, friends, or coworkers, simply because it's "right", it's easy to do so, it helps you work with others, and you've never really \*had\* to put critical thought towards it. For a quick example let's take one of the "harder" ethical topics for people to wrap their head around, and turn it into a back and forth discussion to highlight when and where the <strong><u>dumbfounding</u></strong> happens.
+To explain that remark, let's talk about <a href="https://en.wikipedia.org/wiki/Social_intuitionism">moral dumbfounding.</a> Moral dumbfounding is the idea that a lot of our moral positions in society are reached by the majority of people merely by a form of social osmosis. You share moral positions with your family, friends, or coworkers, simply because it's "right", it's easy to do so, it helps you work with others, and you've never really \*had\* to put critical thought towards it. For a quick example let's take one of the "harder" ethical topics for people to wrap their head around, and turn it into a back and forth discussion to highlight when and where the <strong>dumbfounding</strong> happens.
 
 Disclaimer: If your first knee-jerk reaction to the following topic is disgust and disdain, I implore you to put aside your bias and your <em><strong>emotions</strong></em> and consider the following set of statements logically and impartially. Basically: Be an adult. For a lot of adults this is incredibly hard... But I believe in you.
 
@@ -36,7 +36,7 @@ Disclaimer: If your first knee-jerk reaction to the following topic is disgust a
 
 <strong>Average Person:</strong> Well think of the <em>power dynamic.</em> A parent grooms a child!
 
-<em>"You're quite right on that. But a power dynamic is not exclusive to incest. It is not what would <u>inherently</u> make incest immoral. And almost every other relationship has power dynamics- in terms of money, intelligence, looks, and yet these relationships aren't immoral because of this. Are they?"</em>
+<em>"You're quite right on that. But a power dynamic is not exclusive to incest. It is not what would <strong>inherently</strong> make incest immoral. And almost every other relationship has power dynamics- in terms of money, intelligence, looks, and yet these relationships aren't immoral because of this. Are they?"</em>
 
 <strong>Average Person:</strong> Well... I guess not. But what about the <em>genetic defects!</em> Bringing a life into this world that you know will have developmental issues is immoral!
 
@@ -48,7 +48,7 @@ Disclaimer: If your first knee-jerk reaction to the following topic is disgust a
 
 <strong>Average Person:</strong> Well... Well I guess in this specifically crafted scenario it's not inherently immoral. Unless I was religious.
 
-<em>"Unless you were religious. But religion doesn't operate on logic, so let's set that aside as many philosophers do in this instance."</em>
+<em>"Unless you were religious. But let's set that aside in an ethics discussion, the water is too muddied otherwise."</em>
 
 <strong>Average Person:</strong> Sure. But it just seems to me like you're constructing a handcrafted narrative that will only ever apply to the 1% of incest.
 

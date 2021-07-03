@@ -14,7 +14,7 @@ Let's talk about <em>cows.</em>
 
 Or rather, let's talk about my thought process regarding eating meat. Forward disclaimer, I am decidedly not vegetarian. I consume poultry and a majority of seafood. I <em><strong>\*try\*</strong> to refrain</em> from eating that of cows, pigs, lamb, etc- anything rather sizable (as will be discussed) in the grey matter department.
 
-I'm not going to try and proselytize to you- but this article may come across as holier-than-thou or irritating. And to that I say: Yeah that's me generally. Sorry. ^^;
+I'm not going to try and proselytize to you- but this article may come across as holier-than-thou or irritating to you. The reason it may seem like preaching is I'm trying very hard to make a very specific emotional point. I'm not trying to preach <em>at</em> you, I'm trying to convince you of <em>an emotionally charged idea.</em>
 
 In this essay, like many of the others written and yet to come- I'm simply putting down the process at which I arrived to my currently held opinions. Nothing more, nothing less. So by the end of this- if you're still reading, feel free to disagree with me- but this is why <em>I</em> believe what <em><strong>I</strong></em> believe. And to be frank I could care less about why <em>you</em> believe what <em><strong>you</strong></em> believe. Because generally <em><strong>you</strong></em> believe a lot of things you've never gone out of your way to intentionally research, back up, and/or justify. No offense...
 

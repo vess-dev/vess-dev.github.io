@@ -120,10 +120,6 @@ For a few weeks now, and for as long as I continue hold to this ethical view, I 
 
 Where is your line in the sand?
 
-Do you have a line?
-
-Where is it?
-
 <hr>
 
 Cheers, and thanks for reading.

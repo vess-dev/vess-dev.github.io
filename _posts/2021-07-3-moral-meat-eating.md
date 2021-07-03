@@ -52,9 +52,9 @@ Disclaimer: If your first knee-jerk reaction to the following topic is disgust a
 
 <strong>Average Person:</strong> Sure. But it just seems to me like you're constructing a handcrafted narrative that will only ever apply to the 1% of incest.
 
-<em>"But in my 1%- it is a morally neutral action. Therefore, incest inherently, is a <strong>morally neutral action.</strong> It is other factors that affect the morallity of the aciton- not the action itself."</em>
+<em>"But in my 1%- it is a morally neutral action. Therefore, incest inherently, is a <strong>morally neutral action.</strong> It is other factors that affect the morality of the action- not the action itself."</em>
 
-Do you see where the moral dumbfounding happened? Did it happen to you as well? Think about it for a while- what other positions you might hold only because others passed them down to you. Some you may be familiar with. Slavery, Women's Suffrage, LGBTQ rights, Aboriton... And now you may see where I'm eventually going with this.
+Do you see where the moral dumbfounding happened? Did it happen to you as well? Think about it for a while- what other positions might you hold only because others passed them down to you? Some you may be familiar with. Slavery, Women's Suffrage, LGBTQ rights, Abortion... And now you may see where I'm eventually going with this.
 
 <hr>
 
@@ -62,12 +62,12 @@ Let's talk about cows... Kidding. Let's talk about <em>dogs.</em> And <em>then</
 
 I will put forth a series of simple questions.
 
-Would you keep a dog in a cage its entire life? Why not?
-What if we're just keeping its meat tender?
-Would you kill and eat a dog? Why not?
-Would you breed a dog forcibly? Why not?
-Would you kill a dog's puppies and eat those too? Why not?
-Would you steal the milk from the dog after you eat its puppies? And keep it pregnant so that it continues to produce both milk and more puppies? Why not?
+- Would you keep a dog in a cage its entire life? Why not?
+- What if we're just keeping its meat tender?
+- Would you kill and eat a dog? Why not?
+- Would you breed a dog forcibly? Why not?
+- Would you kill a dog's puppies and eat those too? Why not?
+- Would you steal the milk from the dog after you eat its puppies? And keep it pregnant so that it continues to produce both milk and more puppies? Why not?
 
 Perhaps you now understand what I'm angling at. Most people answer no to these questions because "it's immoral", or because "they're sapient", or because "they're man's best friend".
 
@@ -79,12 +79,12 @@ Did you know that <a href="https://www.theatlantic.com/magazine/archive/2019/11/
 
 I will put forth another series of simple questions.
 
-Would you keep a <a href="https://www.nhes.org/animal-info-2/factory-farmed-animals-2/factory-farmed-cows">cow in a cage its entire life?</a> Why not?
-What if we're just <a href="https://wagyushop.com/blogs/news/how-is-wagyu-beef-raised">keeping its meat tender?</a>
-Would you kill and eat a cow? Why not?
-Would you <a href="https://nwdistrict.ifas.ufl.edu/phag/2020/05/29/tips-for-successful-artificial-insemination-of-cattle">breed a cow forcibly?</a> Why not?
-Would you kill a <a href="https://en.wikipedia.org/wiki/Veal">cow's calves and eat those too?</a> Why not?
-Would you <a href="https://www.ciwf.com/farmed-animals/cows/dairy-cows/">steal the milk from the cow after you eat its calves? And keep it pregnant so that it continues to produce both milk and more calves?</a> Why not?
+- Would you keep a <a href="https://www.nhes.org/animal-info-2/factory-farmed-animals-2/factory-farmed-cows">cow in a cage its entire life?</a> Why not?
+- What if we're just <a href="https://wagyushop.com/blogs/news/how-is-wagyu-beef-raised">keeping its meat tender?</a>
+- Would you kill and eat a cow? Why not?
+- Would you <a href="https://nwdistrict.ifas.ufl.edu/phag/2020/05/29/tips-for-successful-artificial-insemination-of-cattle">breed a cow forcibly?</a> Why not?
+- Would you kill a <a href="https://en.wikipedia.org/wiki/Veal">cow's calves and eat those too?</a> Why not?
+- Would you <a href="https://www.ciwf.com/farmed-animals/cows/dairy-cows/">steal the milk from the cow after you eat its calves? And keep it pregnant so that it continues to produce both milk and more calves?</a> Why not?
 
 So now let's move past simple questions and let's make descriptive claims. Let's not mince words. This is an emotional appeal assuredly, but only because <em>you</em> intentionally choose not to think about it in your day to day life. So I have to be blunt here.
 

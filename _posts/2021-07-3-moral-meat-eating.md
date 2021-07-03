@@ -92,12 +92,11 @@ I will put forth another series of simple questions.
 - Would you kill a <a href="https://en.wikipedia.org/wiki/Veal">cow's calves and eat those too?</a> Why not?
 - Would you <a href="https://www.ciwf.com/farmed-animals/cows/dairy-cows/">steal the milk from the cow after you eat its calves? And keep it pregnant so that it continues to produce both milk and more calves?</a> Why not?
 
-So now let's move past simple questions and let's make descriptive claims. Let's not mince words. This is an emotional appeal assuredly, but only because people <em>intentionally</em> choose not to think about it in their day to day life. So I have to be blunt here.
+So now let's move past simple questions and let's make descriptive claims. Let's not mince words. This is an emotional appeal assuredly, but only because people <em>intentionally</em> choose not to think about it in their day to day lives. So I have to be blunt here.
 
 We know that cows and pigs and the like have feelings- and are as smart if not smarter than dogs.
 We keep them in cages their entire lives and feed them with tubes to keep the meat soft.
-We fuck them forcibly so they create even softer forms of juicy baby meat- and milk that we can sap from them to sell and drink.
-
+We fuck them forcibly so they create even softer forms of juicy baby meat- and milk that we can sap from them to drink and sell.
 <hr>
 
 ![Ethics](/assets/ethics.jpg "A picture of two badly named cities.")
@@ -109,7 +108,7 @@ You can now possibly claim one of two ideals.
 1. Animals don't matter. Humans are superior.
 2. Animals matter. Humans are equal.
 
-If you take the first position then you're perfectly fine. Continue to eat meat and live your life blissfully. Animals can suffer and die with no consequence to you. And this is, in my opinion, o-kay. Just as long as you remain consistent, and you don't value dogs more than other animals- or feel bad when you strike something with your car. They are inconsequential and their suffering is inconsequential. Humans go! <em>Yay!</em>
+If you take the first position then you're perfectly fine. Continue to eat meat and live your life blissfully. Animals can suffer and die with no consequence to you. And this is, in my opinion, a-okay. Just as long as you remain consistent, and you don't value dogs more than other animals- or feel bad when you strike something with your car. They are inconsequential and their suffering is inconsequential. Humans go! <em>Yay!</em>
 
 If you take the second position then you must ask yourself- are you currently being hypocritically immoral? Will you continue to eat meat after recognizing the ideas that I've laid out here? This is, in my opinion, where we run into trouble. Most people operate in this morally dumbfounded state where they hold the ideal that "Protect all animals! I <em><strong>love animals!</strong></em>" while they continue to consume meat. They do this intentionally. Purposefully. Because it's comfortable, and the alternative requires them to <em>spend money,</em> or <em>change their lifestyle.</em> And that's asking too much in lieu of ending the continued suffering of animals that can make friends, that can have loved ones, and that can have children they care for.
 

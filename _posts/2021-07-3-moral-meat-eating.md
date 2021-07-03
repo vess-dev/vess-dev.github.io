@@ -26,31 +26,31 @@ Disclaimer: If your first knee-jerk reaction to the following topic is disgust a
 
 <em>"Incest is a morally neutral action."</em>
 
-Average Person: Good god NO it is not! It is a <em>\*completely\*</em> immoral action!
+<strong>Average Person:</strong> Good god NO it is not! It is a <em>\*completely\*</em> immoral action!
 
 <em>"How do you figure?"</em>
 
-Average Person: Well jesus, because it just <em>is!</em>
+<strong>Average Person:</strong> Well jesus, because it just <em>is!</em>
 
 <em>"Justifying your positions with 'because it just is' isn't really intelligent."</em>
 
-Average Person: Well think of the <em>power dynamic.</em> A parent grooms a child!
+<strong>Average Person:</strong> Well think of the <em>power dynamic.</em> A parent grooms a child!
 
 <em>"You're quite right on that. But a power dynamic is not exclusive to incest. It is not what would <u>inherently</u> make incest immoral. And almost every other relationship has power dynamics- in terms of money, intelligence, looks, and yet these relationships aren't immoral because of this. Are they?"</em>
 
-Average Person: Well... I guess not. But what about the <em>genetic defects!</em> Bringing a life into this world that you know will have developmental issues is immoral!
+<strong>Average Person:</strong> Well... I guess not. But what about the <em>genetic defects!</em> Bringing a life into this world that you know will have developmental issues is immoral!
 
 <em>"You would tell those that knowingly have children with autism, down syndrome, and the like, that their actions are immoral? And what if the incestuous couple uses protection? Or if they're gay?"</em>
 
-Average Person: Well- perhaps not. And also, what kind of relationship could you construct that deflects all of these then?
+<strong>Average Person:</strong> Well- perhaps not. And also, what kind of relationship could you construct that deflects all of these then?
 
 <em>"Let's say they're gay brothers in college, and were separated at birth. No power dynamic. No children. No grooming. What now?"</em>
 
-Average Person: Well... Well I guess in this specifically crafted scenario it's not inherently immoral. Unless I was religious.
+<strong>Average Person:</strong> Well... Well I guess in this specifically crafted scenario it's not inherently immoral. Unless I was religious.
 
 <em>"Unless you were religious. But religion doesn't operate on logic, so let's set that aside as many philosophers do in this instance."</em>
 
-Average Person: Sure. But it just seems to me like you're constructing a handcrafted narrative that will only ever apply to the 1% of incest.
+<strong>Average Person:</strong> Sure. But it just seems to me like you're constructing a handcrafted narrative that will only ever apply to the 1% of incest.
 
 <em>"But in my 1%- it is a morally neutral action. Therefore, incest inherently, is a <strong>morally neutral action.</strong> It is other factors that affect the morallity of the aciton- not the action itself."</em>
 

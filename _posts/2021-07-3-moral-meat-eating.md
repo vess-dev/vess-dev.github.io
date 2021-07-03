@@ -56,6 +56,8 @@ Disclaimer: If your first knee-jerk reaction to the following topic is disgust a
 
 Do you see where the moral dumbfounding happened? Did it happen to you as well? Think about it for a while- what other positions might you hold only because others passed them down to you? Some you may be familiar with. Slavery, Women's Suffrage, LGBTQ rights, Abortion... And now you may see where I'm eventually going with this.
 
+<strong>Note:</strong> This does not mean we legalize incest. That is not the claim I'm making. There are a lot more issues that would make legalization impossible and outright insane.  All that I'm claiming is that on its head- there are certain actions that are morally neutral regardless of how you may feel about them.
+
 <hr>
 
 ![Bulldog](/assets/bulldog.jpg "A picture of a small friend... Or pupburger?")

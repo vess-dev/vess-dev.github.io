@@ -58,6 +58,10 @@ Do you see where the moral dumbfounding happened? Did it happen to you as well? 
 
 <hr>
 
+![Bulldog](/assets/bulldog.jpg "A picture of a small friend... Or hamburger?")
+
+<hr>
+
 Let's talk about cows... Kidding. Let's talk about <em>dogs.</em> And <em>then</em> cows.
 
 I will put forth a series of simple questions.
@@ -91,6 +95,12 @@ So now let's move past simple questions and let's make descriptive claims. Let's
 We know that cows and pigs and the like have feelings- and are as smart if not smarter than dogs.
 We keep them in cages their entire lives and feed them with tubes to keep the meat soft.
 We fuck them forcibly so they create even softer forms of juicy baby meat- and milk that we can sap from them to sell and drink.
+
+<hr>
+
+![ethics](/assets/ethics.jpg "A picture of two badly named cities.")
+
+<hr>
 
 You can now claim one of only two ideals.
 

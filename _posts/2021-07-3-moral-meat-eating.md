@@ -58,7 +58,7 @@ Do you see where the moral dumbfounding happened? Did it happen to you as well? 
 
 <hr>
 
-![Bulldog](/assets/bulldog.jpg "A picture of a small friend... Or hamburger?")
+![Bulldog](/assets/bulldog.jpg "A picture of a small friend... Or pupburger?")
 
 <hr>
 
@@ -102,7 +102,7 @@ We fuck them forcibly so they create even softer forms of juicy baby meat- and m
 
 <hr>
 
-You can now claim one of only two ideals.
+You can now possibly claim one of two ideals.
 
 1. Animals don't matter. Humans are superior.
 2. Animals matter. Humans are equal.

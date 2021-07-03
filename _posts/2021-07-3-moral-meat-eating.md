@@ -12,7 +12,7 @@ This article delves into a sensitive and confrontational topic. If you're comfor
 
 Let's talk about <em>cows.</em>
 
-Or rather, let's talk about my thought process regarding eating meat. Forward disclaimer, I am decidedly not vegetarian. I consume poultry and a majority of seafood. I <em><strong>\*try\*</strong> to refrain</em> from eating that of cows, pigs, lamb, etc- anything rather sizable (as will be discussed) in the grey matter department.
+Or rather, let's talk about my thought process regarding eating meat. Forward disclaimer, I am decidedly not vegetarian. I consume poultry and a majority of seafood. I <em><strong>\*try\*</strong> to refrain</em> from eating that of cows, pigs, lamb, etc- anything rather sizable (As will be discussed.) in the grey matter department.
 
 I'm not going to try and proselytize to you- but this article may come across as holier-than-thou or irritating to you. The reason it may seem like preaching is I'm trying very hard to make a very specific emotional point. I'm not trying to preach <em>at</em> you, I'm trying to convince you of <em>an emotionally charged idea.</em>
 
@@ -86,26 +86,26 @@ I will put forth another series of simple questions.
 - Would you kill a <a href="https://en.wikipedia.org/wiki/Veal">cow's calves and eat those too?</a> Why not?
 - Would you <a href="https://www.ciwf.com/farmed-animals/cows/dairy-cows/">steal the milk from the cow after you eat its calves? And keep it pregnant so that it continues to produce both milk and more calves?</a> Why not?
 
-So now let's move past simple questions and let's make descriptive claims. Let's not mince words. This is an emotional appeal assuredly, but only because <em>people</em> intentionally choose not to think about it in their day to day life. So I have to be blunt here.
+So now let's move past simple questions and let's make descriptive claims. Let's not mince words. This is an emotional appeal assuredly, but only because people <em>intentionally</em> choose not to think about it in their day to day life. So I have to be blunt here.
 
 We know that cows and pigs and the like have feelings- and are as smart if not smarter than dogs.
 We keep them in cages their entire lives and feed them with tubes to keep the meat soft.
-We fuck them forcibly so they create even softer forms of juicy baby meat- and milk that we can sap from them and sell and drink.
+We fuck them forcibly so they create even softer forms of juicy baby meat- and milk that we can sap from them to sell and drink.
 
-You can now claim one of only two things.
+You can now claim one of only two ideals.
 
 1. Animals don't matter. Humans are superior.
 2. Animals matter. Humans are equal.
 
-If you take the first position then you're perfectly fine. Continue to eat meat and live your life blissfully. Animals can suffer and die- of no consequence to you. And this is, in my opinion, o-kay. Just as long as you remain consistent, and you don't value dogs more than other animals- or feel bad when you strike something with your car. They are inconsequential and their suffering is inconsequential. Humans go! <em>Yay!</em>
+If you take the first position then you're perfectly fine. Continue to eat meat and live your life blissfully. Animals can suffer and die with no consequence to you. And this is, in my opinion, o-kay. Just as long as you remain consistent, and you don't value dogs more than other animals- or feel bad when you strike something with your car. They are inconsequential and their suffering is inconsequential. Humans go! <em>Yay!</em>
 
 If you take the second position then you must ask yourself- are you currently being hypocritically immoral? Will you continue to eat meat after recognizing the ideas that I've laid out here? This is, in my opinion, where we run into trouble. Most people operate in this morally dumbfounded state where they hold the ideal that "Protect all animals! I <em><strong>love animals!</strong></em>" while they continue to consume meat. They do this intentionally. Purposefully. Because it's comfortable, and the alternative requires them to <em>spend money,</em> or <em>change their lifestyle.</em> And that's asking too much in lieu of ending the continued suffering of animals that can make friends, that can have loved ones, and that can have children they care for.
 
-For what it's worth I'll explain the middle ground that I've carved out for myself. I don't particularly care about the suffering of <strong>\*most\*</strong> animals- because why should I care when a worm writhes in pain as it burns? It is simply a reaction to an action. It doesn't \*understand\* the context of the pain and what it means. It's no more advanced than how a virus operates when it copies itself into a cell. I don't feel remorse when I step on ants. I don't feel remorse when I kill bacteria with a spray. I \*do\* feel bad when I accidentally step on my cat's tail.
+For what it's worth I'll explain the middle ground that I've carved out for myself. I don't particularly care about the suffering of <strong>\*most\*</strong> animals- because why should I care when a worm writhes in pain as it burns? It is simply a reaction to an action. It doesn't \*understand\* the context of the pain and what it means. It's no more advanced than how a virus operates when it copies itself into a cell. I don't feel remorse when I step on ants. I don't feel remorse when I kill bacteria with a spray. I \*do\* feel bad when I accidentally step on a cat's tail.
 
 So when it comes to meat... Chickens and fish (Excluding octopus.) are fair game to me. They're rather stupid- and while they can <a href="https://www.scienceworld.ca/stories/chickens-can-do-math">learn some higher concepts,</a> they are not on the same playing field as cows and pigs and the like.
 
-For a few weeks now, and for as long as I continue hold to this ethical view, I will consume only poultry, fish, or that of "dumb" animals. Everything else seems... Unabashedly cruel. And hypocritical. When we finally perfect lab grown meat perhaps we will move beyond this caveman style of survival. But until then... I find moral comfort in this line in the sand I've drawn.
+For a few weeks now, and for as long as I continue hold to this ethical view, I will consume only poultry, fish, or the meat of other "dumb" animals. Everything else seems... Unabashedly cruel. And hypocritical. When we finally perfect lab grown meat perhaps we will move beyond this caveman style of survival. But until then... I find moral comfort in this line in the sand I've drawn.
 
 Where is your line in the sand?
 

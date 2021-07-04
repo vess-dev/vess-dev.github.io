@@ -77,10 +77,11 @@ I will put forth a series of simple questions.
 
 Perhaps you now understand what I'm angling at. Most people answer no to these questions because "it's immoral", or because "they're sapient", or because "they're man's best friend".
 
+- "it's immoral"
 Isn't that moral dumbfounding?
-
+- "they're sapient"
 Did you know that <a href="https://modernfarmer.com/2014/03/pigheaded-smart-swine">pigs can lie and play video games?</a> 
-
+- "they're man's best friend"
 Did you know that <a href="https://www.theatlantic.com/magazine/archive/2019/11/bovine-friends-forever/598417">cows have best friends?</a>
 
 I will put forth another series of simple questions.

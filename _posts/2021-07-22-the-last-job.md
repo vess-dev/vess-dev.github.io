@@ -92,6 +92,14 @@ Of which the Mandate and Divine have a Grail.
 
 <hr>
 
+Extra Stuff:
+
+6 alien races, 3 primary factions, 4 secondary factions, 30 planets, and 40 points of interest.
+
+Humans, Aliens, VIs, True AIs, and Shells are permitted for player characters.
+
+<hr>
+
 See you soon, spacer.
 
 - Vess

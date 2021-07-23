@@ -3,14 +3,14 @@ layout: post
 title: RPG Intro | The Last Job | 1000 words
 ---
 
-{% include player.html id="3s-R9rO4p-0" %}
-
-<hr>
-
 This is a personal advertisment for a TTRPG campaign I'm running IRL.
 {: .message }
 
-<hr> 404
+<hr>
+
+{% include player.html id="3s-R9rO4p-0" %}
+
+<hr>
 
 A boot thuds into mud, spraying the muck and bits of blood mixed into it outwards in a splash. The Commander above barks continued orders in a rapidly declining hoarse voice as she tries to instill a bit of order into the chaos of rampant death surrounding her. Her words fall on the deaf ears of corpses- and those soon to be such. With a harried look she frantically glances about the battlefield, trying to spot something to get her and her men out of this. All her eyes fall on is a gravtank: a hundred tons of pure alloy and spitfire laz guns. It swings the bore of its spiraled focusing rod towards her group. Vibrant streaks of green energy spark along the rod- and red hot death on a flash of light spews from the tip... And strikes faster than lightning through the meat and bone of ten men in the blink of an eye. The harbinger has come, and their souls are chafe to split from the wheat.
 

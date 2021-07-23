@@ -78,6 +78,12 @@ There will of course be a session 0 where I cover this in greater detail, but my
 
 ![Flags](/assets/flags.png "A picture of kitchen utensils.")
 
+From top to bottom, left to right:
+
+- The Terran Mandate
+- The Divine
+- The Merchants League
+
 <hr>
 
 {% include player.html id="vQC7dxG_uOM" %}

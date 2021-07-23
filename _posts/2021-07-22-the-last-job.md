@@ -12,6 +12,8 @@ This is a personal advertisment for a TTRPG campaign I'm running IRL.
 
 <hr>
 
+## Flavor Stories
+
 A boot thuds into mud, spraying the muck and bits of blood mixed into it outwards in a splash. The Commander above barks continued orders in a rapidly declining hoarse voice as she tries to instill a bit of order into the chaos of rampant death surrounding her. Her words fall on the deaf ears of corpses- and those soon to be such. With a harried look she frantically glances about the battlefield, trying to spot something to get her and her men out of this. All her eyes fall on is a gravtank: a hundred tons of pure alloy and spitfire laz guns. It swings the bore of its spiraled focusing rod towards her group. Vibrant streaks of green energy spark along the rod- and red hot death on a flash of light spews from the tip... And strikes faster than lightning through the meat and bone of ten men in the blink of an eye. The <em>harbinger</em> has come, and their souls are chafe to <strong>split</strong> from the wheat.
 
 ...
@@ -29,6 +31,8 @@ A starship, no bigger than a transport class frigate, caresses its cold steel be
 <a href="/assets/races.pdf">[Alien Races PDF Link]</a>
 
 <hr>
+
+## Summary
 
 A <em>splash<em> of <a href="https://www.youtube.com/watch?v=EL-D9LrFJd4">Cowboy Bebop</a>, a <em>tidbit</em> of <a href="https://www.youtube.com/watch?v=sAzVt87G5Cs">Ghost in the Shell</a>, and a <em>smidgen</em> of <a href="https://www.youtube.com/watch?v=4OxFSy8G5wk">Trigun.</a>
 
@@ -88,15 +92,15 @@ Of which the Mandate and Divine have a Grail.
 
 <hr>
 
-{% include player.html id="vQC7dxG_uOM" %}
-
-<hr>
-
-Extra Stuff:
+### Extra Stuff:
 
 6 alien races, 3 primary factions, 4 secondary factions, 30 planets, and 40 points of interest.
 
 Humans, Aliens, VIs, True AIs, and Shells are permitted for player characters.
+
+<hr>
+
+{% include player.html id="vQC7dxG_uOM" %}
 
 <hr>
 

@@ -3,12 +3,12 @@ layout: post
 title: RPG Intro | The Last Job | 1000 words
 ---
 
-This is a personal advertisment for a TTRPG campaign I'm running IRL.
-{: .message }
+{% include player.html id="3s-R9rO4p-0" %}
 
 <hr>
 
-{% include player.html id="3s-R9rO4p-0" %}
+This is a personal advertisment for a TTRPG campaign I'm running IRL.
+{: .message }
 
 <hr>
 

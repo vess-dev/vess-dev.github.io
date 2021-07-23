@@ -10,6 +10,8 @@ title: Essay | Moral Meat Eating | 1600 words
 This article delves into a sensitive and confrontational topic. If you're comfortable with your ethical positions and want a lighter read- check out my other articles.
 {: .message }
 
+<hr>
+
 Let's talk about <em>cows.</em>
 
 Or rather, let's talk about my thought process regarding eating meat. Forward disclaimer, I am decidedly not vegetarian. I consume poultry and a majority of seafood. I <em><strong>\*try\*</strong> to refrain</em> from eating that of cows, pigs, lamb, etc- anything rather sizable (As will be discussed.) in the grey matter department.

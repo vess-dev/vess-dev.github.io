@@ -26,7 +26,7 @@ A starship, no bigger than a transport class frigate, caresses its cold steel be
 
 ![Races](/assets/races.png "A picture of blobby aliens.")
 
-<a href="/assets/races.pdf">Alien Races PDF</a>
+<a href="/assets/races.pdf">[Alien Races PDF Link]</a>
 
 <hr>
 
@@ -40,7 +40,7 @@ Christened with-
 
 All this and more in...
 
-<strong><u>Stars Without Number: The Last Job.</u></strong>
+<strong><u>Stars Without Number: <em>The Last Job.</em></u></strong>
 
 Here's the sitch. I want to run a deadly space-faring campaign with a group of 4-5 plucky adventurers.
 It will be serious- and it will treat players as <em>competent</em> beings in the world space.
@@ -54,7 +54,7 @@ Play competently. Spend time thinking about your actions and their consequences-
 But for every derelict ship you happily root your looting hands through, remember... They were once like you.
 They had dreams. They had a life. They had goals and objectives and a future... And a mistake <em>cost them everything.</em>
 
-The campaign will be in person, once a week, and will hopefully be for >= 3-4 hours.
+The campaign will be in person, once a week, and will hopefully be for >= 3 to 4 hours.
 I would prefer to get 5 people involved, one for each station on a ship, but will accept 4.
 It will feature at times a dark and gritty tone, and at others a family-like crew puttering along the cosmos.
 There will be a general goal given to the party, but the stars are your sandbox.

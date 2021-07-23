@@ -78,11 +78,13 @@ There will of course be a session 0 where I cover this in greater detail, but my
 
 ![Flags](/assets/flags.png "A picture of kitchen utensils.")
 
-From top to bottom, left to right:
+From top to bottom, left to right, these are the flags of the 3 primary factions:
 
 - The Terran Mandate
 - The Divine
 - The Merchants League
+
+Of which the Mandate and Divine have a Grail.
 
 <hr>
 

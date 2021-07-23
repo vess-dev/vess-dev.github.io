@@ -20,7 +20,7 @@ A starship, no bigger than a transport class frigate, caresses its cold steel be
 
 ...
 
-"Nar, nar, you dohn't ever <strong>cheat<strong> yourself a Xel. Aye, they's got the memory fors it- can remember every slight yew evar did pull on them, and the lifespahn to geht yew <em>back</em> fohr it." The brutish and shrewd Glix leans over the table as his accumulated cybernetic plating along the rolls of fat clink and shimmer. He smacks his lips, clears his throat, and brings a fist up to assist with his jest. "Yew dohn't ever do that if yew know hwat's good for yew." The two alien men continue for a time, trading hushed whispers as they peer at the cloaked being across the room. An oddity in this and every sector, the Xel sits silently and slowly gazes around with a piercing stare. They quiet as its look passes over them, and resume when it continues on. With a slow and pointed movement the Xel stands from its table causing them once again to stop. It leaves- but pauses at the door, and looks toward them for a split second.
+"Nar, nar, you dohn't ever <strong>cheat</strong> yourself a Xel. Aye, they's got the memory fors it- can remember every slight yew evar did pull on them, and the lifespahn to geht yew <em>back</em> fohr it." The brutish and shrewd Glix leans over the table as his accumulated cybernetic plating along the rolls of fat clink and shimmer. He smacks his lips, clears his throat, and brings a fist up to assist with his jest. "Yew dohn't ever do that if yew know hwat's good for yew." The two alien men continue for a time, trading hushed whispers as they peer at the cloaked being across the room. An oddity in this and every sector, the Xel sits silently and slowly gazes around with a piercing stare. They quiet as its look passes over them, and resume when it continues on. With a slow and pointed movement the Xel stands from its table causing them once again to stop. It leaves- but pauses at the door, and looks toward them for a split second.
 
 <hr>
 
@@ -30,7 +30,7 @@ A starship, no bigger than a transport class frigate, caresses its cold steel be
 
 <hr>
 
-A <em>splash<em> of <u>Cowboy Bebop</u>, a <em>tidbit</em> of <u>Ghost in the Shell</u>, and a <em>smidgen</em> of <u>Trigun.</u>
+A <em>splash<em> of <a href="https://www.youtube.com/watch?v=EL-D9LrFJd4">Cowboy Bebop</a>, a <em>tidbit</em> of <a href="https://www.youtube.com/watch?v=sAzVt87G5Cs">Ghost in the Shell</a>, and a <em>smidgen</em> of <a href="https://www.youtube.com/watch?v=4OxFSy8G5wk">Trigun.</a>
 
 Christened with-
 
@@ -54,7 +54,7 @@ Play competently. Spend time thinking about your actions and their consequences-
 But for every derelict ship you happily root your looting hands through, remember... They were once like you.
 They had dreams. They had a life. They had goals and objectives and a future... And a mistake <em>cost them everything.</em>
 
-The campaign will be in person, once a week, and will hopefully be for >=3-4 hours.
+The campaign will be in person, once a week, and will hopefully be for >= 3-4 hours.
 I would prefer to get 5 people involved, one for each station on a ship, but will accept 4.
 It will feature at times a dark and gritty tone, and at others a family-like crew puttering along the cosmos.
 There will be a general goal given to the party, but the stars are your sandbox.

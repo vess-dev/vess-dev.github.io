@@ -78,7 +78,7 @@ She looked at him, and a mix of sadness, smugness, and pity tinged the mixed cer
 
 "I'm <em>eighty</em>." She said with a chuckle.
 
-"Please... Paint a hundred more paintings..." - "I did." - "Please- breath a thousand more breaths..." - "I have." - "Please! I implore you, reconsider." - "Oh, that was yesterday's project." She said with a wink.
+"Please... Paint a hundred more paintings..." - <em>"I did."</em> - "Please- breath a thousand more breaths..." - <em>"I have."</em> - "Please! I implore you, reconsider." - <em>"Oh, that was yesterday's project."</em> She said with a wink.
 
 "Why? For fame? For glory? For- for- for money?"
 
@@ -86,7 +86,7 @@ She looked at him, and a mix of sadness, smugness, and pity tinged the mixed cer
 
 "Then why?"
 
-"This is my right. Simple as. And the purest artwork I can make."
+"This is my right. Simple as. And the purest, most genuine, and last artwork I can make."
 
 <hr><center>* * *</center><hr>
 

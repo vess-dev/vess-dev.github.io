@@ -42,7 +42,7 @@ She scoffed and shot him a glare. "Do I need to paint a picture of every buildin
 
 She shook her head in refusal. "So that it will join the thousands of other paintings of fruit? Are you the type to walk in an art museum of the 'greats', and look at the thousand paintings of fruit, the hundred paintings of angels, the dozen paintings of buildings- and commanders- and messiahs, and the... Well, millions if we're being honest, of paintings of naked women- and extol their virtues?"
 
-"Well..." he timidly began.
+"Well..." he timidly began to reply.
 
 "Do you look upon them all and gush about how 'great' the old masters were? How 'great' and 'cultural' and 'beautiful' and 'inspiring' and 'perfect' the paintings made by long dead men with too much lust for homogeneity in them? The men paid money to paint fruit? To paint naked women? To paint the buildings built by other men with too much money so that they could hang the pieces in the buildings they built, look at them, and <em>jerk off?</em>" The poison in her voice seeped with every word.
 

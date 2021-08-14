@@ -24,7 +24,7 @@ She then spent the final year advertising the artwork, putting her accounts in a
 
 <hr>
 
-That is all the mathematicians had helped her, except for one.
+That is- <em>all</em> the mathematicians had helped her, except for one.
 
 A younger and pluckier geometer who had made it a personal vendetta to visit every day and steer her away from her plan.
 

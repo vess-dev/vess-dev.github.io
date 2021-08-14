@@ -88,7 +88,7 @@ She looked at him, and a mix of sadness, smugness, and pity tinged the mixed cer
 
 "This is my right. Simple as. And the purest artwork I can make."
 
-<center><strong>***</strong></center>
+<hr><center>* * *</center><hr>
 
 The day of, the air was clear and crisp. The sun was quiet and bright. The crowd was massive and calm.
 
@@ -100,7 +100,7 @@ She peered down at them, their expectant and waiting faces. The kaleidoscope of 
 
 She did not see his among them.
 
-<center><strong>***</strong></center>
+<hr><center>* * *</center><hr>
 
 The body was removed from the stone, of course, and cremated as per a will.
 
@@ -110,7 +110,7 @@ The marble piece was stained red, and eventually it would sell for millions.
 
 It eventually was placed in a big building, with a small placard that read:
 
-"The Last Artwork".
+<u>"The Last Artwork"</u>
 
 <hr>
 

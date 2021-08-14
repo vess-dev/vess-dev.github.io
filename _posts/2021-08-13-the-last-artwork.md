@@ -116,9 +116,9 @@ The blood that found its way to an edge and then down a side was let to dry.
 
 The marble piece was stained with a dozen tiny stranded rivers of red. 
 
-Eventually it would sell for millions, and after some legal dispute, would be placed inside of a big building that housed paintings of fruit, women, and other bigger buildings.
+Eventually it would sell for millions, and after some legal dispute, would be placed inside of a big building that housed paintings of fruit, women, and other bigger buildings. One painting even had all three.
 
-It had a small placard that read:
+The dais had a small placard that read,
 
 <a href="https://vess-dev.github.io/2021/08/13/the-last-artwork/">"The Last Artwork"</a>
 

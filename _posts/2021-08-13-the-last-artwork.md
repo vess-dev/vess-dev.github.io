@@ -118,7 +118,7 @@ The marble piece was stained with a dozen tiny stranded rivers of red.
 
 Eventually it would sell for millions, and after some legal dispute, would be placed in a big building with a small placard that read:
 
-<u>"The Last Artwork"</u>
+<a href="https://vess-dev.github.io/2021/08/13/the-last-artwork/">"The Last Artwork"</a>
 
 <hr>
 

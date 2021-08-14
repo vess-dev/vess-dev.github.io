@@ -76,7 +76,7 @@ She looked at him, and a mix of sadness, smugness, and pity tinged the mixed cer
 
 "Reconsider, please, in the name of the father." he took a knee before her.
 
-"I answer to none."
+"I answer to no one."
 
 "Reconsider, please, in the name of your child." he took her hand in his.
 

@@ -114,9 +114,9 @@ The body was removed from the stone, of course, and cremated as per a will.
 
 The blood that found its way to an edge and then down a side was let to dry.
 
-The marble piece was stained red, and eventually it would sell for millions.
+The marble piece was stained with a dozen tiny stranded rivers of red. 
 
-It, after some legal dispute, was placed in a big building with a small placard that read:
+Eventually it would sell for millions, and after some legal dispute, would be placed in a big building with a small placard that read:
 
 <u>"The Last Artwork"</u>
 

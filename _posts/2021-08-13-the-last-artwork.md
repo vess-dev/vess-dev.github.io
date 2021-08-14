@@ -116,7 +116,7 @@ The blood that found its way to an edge and then down a side was let to dry.
 
 The marble piece was stained with a dozen tiny stranded rivers of red. 
 
-Eventually it would sell for millions, and after some legal dispute, would be placed inside of a big building that housed paintings of other big buildings.
+Eventually it would sell for millions, and after some legal dispute, would be placed inside of a big building that housed paintings of fruit, women, and other bigger buildings.
 
 It had a small placard that read:
 

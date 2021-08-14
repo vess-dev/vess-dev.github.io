@@ -18,7 +18,7 @@ The sculptor put her tools down and breathed a sigh of relief. With her forearm 
 
 She had spent three years making sure the piece was a true circle through the assistance of patient chipping, pieces of thread, and the advisement of several accomplished mathematicians. While some of them were initially hesitant to aid her in the creation of this piece- having been clued into the final end goal by the local newspaper, they were inevitably swayed by her unyielding determination.
 
-She had spent two years making sure the piece was sanded down to a slick sheen, to the point where a single drop of water placed dead center would slowly but surely find its way to an edge and then down the side.
+She had spent an additional two years making sure the piece was sanded down to a slick sheen, to the point where a single drop of water placed dead center would slowly but surely find its way to an edge and then down the side.
 
 She then spent the final year advertising the artwork, putting her accounts in arrears, and accomplishing the last vestigial experiences that she wished at least partially to peruse.
 

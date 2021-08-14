@@ -124,6 +124,10 @@ It had a small placard that read:
 
 <hr>
 
+![Bridge](/assets/bride.jpg "Bride - Beth Lipman")
+
+<hr>
+
 Cheers, and thanks for reading.
 
 - Vess

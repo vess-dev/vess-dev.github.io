@@ -86,7 +86,7 @@ She looked at him, and a mix of sadness, smugness, and pity tinged the mixed cer
 
 "I'm <em>eighty</em>." she said with a chuckle.
 
-"Please... Paint a hundred more paintings..." <strong>-</strong> <em>"I did."</em> <strong>-</strong> "Please- breath a thousand more breaths..." - <em>"I have."</em> - "Please! I implore you, reconsider." <strong>-</strong> <em>"Oh, that was yesterday's project."</em> she said with a wink.
+"Please... Paint a hundred more paintings..." <strong>-</strong> <em>"I did."</em> <strong>-</strong> "Please- breath a thousand more breaths..." <strong>-</strong> <em>"I have."</em> <strong>-</strong> "Please! I implore you, reconsider." <strong>-</strong> <em>"Oh, that was yesterday's project."</em> she said with a wink.
 
 "Why? For fame? For glory? For- for- for money?"
 
@@ -116,7 +116,9 @@ The blood that found its way to an edge and then down a side was let to dry.
 
 The marble piece was stained with a dozen tiny stranded rivers of red. 
 
-Eventually it would sell for millions, and after some legal dispute, would be placed in a big building with a small placard that read:
+Eventually it would sell for millions, and after some legal dispute, would be placed inside of a big building that housed paintings of other big buildings.
+
+It had a small placard that read:
 
 <a href="https://vess-dev.github.io/2021/08/13/the-last-artwork/">"The Last Artwork"</a>
 

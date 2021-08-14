@@ -44,7 +44,7 @@ She shook her head in refusal. "So that it will join the thousands of other pain
 
 "Well..." he timidly began.
 
-"Do you look upon them all and gush about how 'great' the old masters were? How 'great' and 'cultural' and 'beautiful' and 'inspiring' and 'perfect' the paintings of long dead men with too much lust in them for homogeneity? The men paid money to paint fruit? To paint naked women? To paint the buildings built by other men with too much money so that they could hang the pieces in the buildings they built, look at them, and <em>jerk off?</em>" The poison in her voice seeped with every word.
+"Do you look upon them all and gush about how 'great' the old masters were? How 'great' and 'cultural' and 'beautiful' and 'inspiring' and 'perfect' the paintings made by long dead men with too much lust for homogeneity in them? The men paid money to paint fruit? To paint naked women? To paint the buildings built by other men with too much money so that they could hang the pieces in the buildings they built, look at them, and <em>jerk off?</em>" The poison in her voice seeped with every word.
 
 He blushed at the sexual remark and puffed himself up. "They are not without merit!" he shouted in defense. "Think of the Mona Lisa! Leonardo spent ages over each painstaking detail! The essence of woman was captured by his inscrutable skill over four years of effort!"
 

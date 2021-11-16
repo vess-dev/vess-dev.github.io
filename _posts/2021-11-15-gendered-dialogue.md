@@ -38,7 +38,7 @@ So you gained your gender through nature and function, then through nurture and 
 
 ## At Birth
 
-First it came to you at birth?
+First, it came to you at birth?
 
 <strong>Filo:</strong> Quite right.
 
@@ -108,7 +108,7 @@ Suggested is... fine. Let's move on.
 
 ## At Adolescence
 
-Second it came to you at adolescence?
+Second, it came to you at adolescence?
 
 <strong>Filo:</strong> Quite right.
 
@@ -163,6 +163,8 @@ So it is \*pure\* arbitrarity? By necessity, your gender is not \*enforced\* at 
 Suggested is... tiresome. But fine, let's move on.
 
 <hr>
+
+## At Maturity
 
 Finally, it came to you at maturity?
 

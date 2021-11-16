@@ -238,15 +238,15 @@ Then by necessity, your gender is not \*enforced\* at your maturity; by your mat
 
 <strong>Filo:</strong> I would suggest it is a culmination of these things.
 
-Dogshit. The concept is arbitrary- it's made up. The rules don't exist.
+Bah. The concept is arbitrary- it's made up. The rules don't exist.
 
 <strong>Filo:</strong> Perhaps. But I still feel this way.
 
-And I can feel like a sea-otter, but given I've never been a sea-otter- this would merely by my stereotyped anthropomorphized projection of what a sea-otter would feel like- aka, <em>dogshit.</em>
+And I can feel like a sea-otter, but given I've never been a sea-otter- this would merely by my stereotyped anthropomorphized projection of what a sea-otter would feel like- aka, <em>bull.</em>
 
 <strong>Filo:</strong> Could you not say the same of gender?
 
-Per-fuckin'-haps. But if it's not form, if it's not function, if it's not society, if it's not the soul- what in the hell is it?
+Perhaps. But if it's not form, if it's not function, if it's not society, if it's not the soul- what the hell is it?
 
 <strong>Filo:</strong> ... Arbitrary. But, to many, meaningful arbitrarity.
 

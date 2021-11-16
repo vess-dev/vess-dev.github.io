@@ -250,7 +250,7 @@ Per-fuckin'-haps. But if it's not form, if it's not function, if it's not societ
 
 <strong>Filo:</strong> ... Arbitrary. But, to many, meaningful arbitrarity.
 
-Meaningless arbitrary dogshit in my opinion.
+Meaningless arbitrarity in my opinion.
 
 <hr>
 

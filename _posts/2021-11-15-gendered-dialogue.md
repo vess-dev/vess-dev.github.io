@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thought | A Gendered Dialogue | 1400 words
+title: Essay | A Gendered Dialogue | 1400 words
 ---
 
 ![Statue](/assets/planet.jpg "A picture of a far off place.")

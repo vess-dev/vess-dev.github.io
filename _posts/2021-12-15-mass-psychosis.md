@@ -1,6 +1,6 @@
 ---
-layout:</ins> post
-title:</ins> Essay | Mass Psychosis | 3500 words
+layout: post
+title: Essay | Mass Psychosis | 3500 words
 ---
 
 <hr>

@@ -13,7 +13,9 @@ Is the lore of Volo's *actually* being removed?
 
 One thing may be considered "removed" which is the EXPLICIT statement of "orcs can be taught the magic of friendship", but this is still left more or less implied by offering the ability to roleplay as an orc in the first place.
 
+<br>
 <hr>
+<br>
 
 # Beholders
 
@@ -35,7 +37,9 @@ A beholder constantly fears for its safety, is wary of any creature that isn’t
 
 They're still paranoid, consider themselves superior, and are willing to use pawns and plot against other beholders...
 
+<br>
 <hr>
+<br>
 
 # Giants
 
@@ -55,7 +59,9 @@ It takes a lot of work to build and maintain a fire giant stronghold. Most of th
 
 They still have slaves...
 
+<br>
 <hr>
+<br>
 
 # Gnolls
 
@@ -81,7 +87,9 @@ Gnolls have little variation in personality and outlook. They are collectively a
 
 They're still pretty samey, kill for the dark lord Satan, and are sometimes uplifted...
 
+<br>
 <hr>
+<br>
 
 # Mind Flayers
 
@@ -103,7 +111,9 @@ Mind flayers are inhuman monsters that typically exist as part of a collective c
 
 They're still capable of individuality...
 
+<br>
 <hr>
+<br>
 
 # Orcs
 
@@ -139,7 +149,9 @@ The lore of humans depicts orcs as rapacious fiends, intent on coupling with oth
 
 They still get pwned by more powerful people, they are still raised in a hyper warlike culture, and they still breed with cute anime girl humans- leading to them being stronger.
 
+<br>
 <hr>
+<br>
 
 # Yuan-Ti
 
@@ -183,7 +195,9 @@ The ritual that produced the first yuan-ti required the human subjects to butche
 
 The Yuan-ti have a literal ton of lore still there. Everything is more or less intact and implied.
 
+<br>
 <hr>
+<br>
 
 # Final Conclusion
 

@@ -9,15 +9,14 @@ title: Essay | Mass Psychosis | 3500 words
 
 Let's talk about <em>Volo's errata.</em>
 
-Is the lore of Volo's *actually* being removed?
+Is the lore of Volo's *actually* being <ins>removed?</ins>
 
-<strong>TLDR: <em>No.</em></strong>
+<strong>TLDR: <ins><em>No.</em></ins></strong>
 
-Two things may be considered actually "removed", which is:
+Two things may be considered actually "removed", which are:
 
-The EXPLICIT statement of "orcs can be taught the magic of friendship", but this is still left more or less implied by offering the ability to roleplay as an orc in the first place.
-
-Yuan-ti calling other things "meat".
+- The EXPLICIT statement of "orcs can be taught the magic of friendship", but this is still left more or less implied by offering the ability to roleplay as an orc in the first place.
+- Yuan-ti calling other things "meat".
 
 <hr>
 <br>

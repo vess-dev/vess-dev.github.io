@@ -17,7 +17,6 @@ The EXPLICIT statement of "orcs can be taught the magic of friendship", but this
 
 Yuan-ti calling other things "meat".
 
-<br>
 <hr>
 <br>
 
@@ -151,7 +150,7 @@ The lore of humans depicts orcs as rapacious fiends, intent on coupling with oth
 
 # <ins>Conclusion</ins>
 
-They still get pwned by more powerful people, they are still raised in a hyper warlike culture, and they still breed with cute anime girl humans- leading to them being stronger.
+They still get pwned by more powerful people, they are still raised in a hyper warlike culture, and they still breed with cute anime girl humans- leading to them being stronger than other orcs...
 
 <br>
 <hr>
@@ -201,7 +200,6 @@ The Yuan-ti have a literal ton of lore still there. Everything is more or less i
 
 <br>
 <hr>
-<br>
 
 # Final Conclusion
 

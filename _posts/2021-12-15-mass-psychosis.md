@@ -7,9 +7,9 @@ title: Essay | Mass Psychosis | 3500 words
 
 Let's talk about <em>Volo's errata.</em>
 
-Is the lore of Volo's *actually* being removed?</ins>
+Is the lore of Volo's *actually* being removed?
 
-<strong>TLDR:</ins> <em>No.</em></strong>
+<strong>TLDR: <em>No.</em></strong>
 
 One thing may be considered "removed" which is the EXPLICIT statement of "orcs can be taught the magic of friendship", but this is still left more or less implied by offering the ability to roleplay as an orc in the first place.
 
@@ -31,7 +31,7 @@ A beholder constantly fears for its safety, is wary of any creature that isn’t
 
 <cite>(Volo's, page 6)</cite>
 
-# Conclusion
+# <ins>Conclusion</ins>
 
 They're still paranoid, consider themselves superior and are willing to use pawns, and plot against other beholders...
 
@@ -51,7 +51,7 @@ It takes a lot of work to build and maintain a fire giant stronghold. Most of th
 
 <cite>(Volo's, page 26)</cite>
 
-# Conclusion
+# <ins>Conclusion</ins>
 
 They still have slaves...
 
@@ -77,7 +77,7 @@ Gnolls have little variation in personality and outlook. They are collectively a
 
 <cite>(Volo's, page 37)</cite>
 
-# Conclusion
+# <ins>Conclusion</ins>
 
 They're still pretty samey, kill for the dark lord Satan, and are sometimes uplifted...
 
@@ -99,7 +99,7 @@ Mind flayers are inhuman monsters that typically exist as part of a collective c
 
 <cite>(Volo's, page 72)</cite>
 
-# Conclusion
+# <ins>Conclusion</ins>
 
 They're still capable of individuality...
 
@@ -135,7 +135,7 @@ The lore of humans depicts orcs as rapacious fiends, intent on coupling with oth
 
 <cite>(PHB, page 40)</cite>
 
-# Conclusion
+# <ins>Conclusion</ins>
 
 They still get pwned by more powerful people, they are still raised in a hyper warlike culture, and they still breed with cute anime girl humans- leading to them being stronger.
 
@@ -179,7 +179,7 @@ The ritual that produced the first yuan-ti required the human subjects to butche
 
 <cite>(Volo's, page 92)</cite>
 
-# Conclusion
+# <ins>Conclusion</ins>
 
 The Yuan-ti have a literal ton of lore still there. Everything is more or less intact and implied.
 
@@ -187,7 +187,7 @@ The Yuan-ti have a literal ton of lore still there. Everything is more or less i
 
 # Final Conclusion
 
-Is everyone experiencing a mass psychosis?</ins>
+Is everyone experiencing a mass psychosis?
 
 All lore seems to be intact, or at worst- in another book.
 

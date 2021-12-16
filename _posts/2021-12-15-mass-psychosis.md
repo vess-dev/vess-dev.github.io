@@ -17,7 +17,7 @@ One thing may be considered "removed" which is the EXPLICIT statement of "orcs c
 
 # Beholders
 
-# <ins>Removed content:</ins>
+## <ins>Removed content:</ins>
 
 A beholder constantly fears for its safety, is wary of any creature that isn’t one of its minions, and is aggressive in dealing with perceived threats. <strong><mark>[be1]</mark></strong> It might react favorably toward creatures that humble themselves before it and present themselves as inferiors, but is easily provoked to attack creatures that brag about their accomplishments or claim to be mighty. Such creatures are seen as threats or fools, and are dealt with mercilessly. Each beholder thinks it is the epitome of its race, and therefore all other beholders are inferior to it — even though, at the same time, it considers other beholders to be its greatest rivals. A beholder might be willing to cooperate with adventurers who have news about another beholder’s lair or activities, and might be nonhostile toward adventurers who praise it for being a perfect example of a beholder. <strong><mark>[be2]</mark></strong>
 
@@ -39,7 +39,7 @@ They're still paranoid, consider themselves superior and are willing to use pawn
 
 # Giants
 
-# <ins>Removed content:</ins>
+## <ins>Removed content:</ins>
 
 Fire giants on many occasions have ransomed captives back to their families or communities, once the giants determined that a slave had no particular talent they needed and others were willing to pay for its return. Affluent prisoners such as merchants and aristocrats are the most likely to win this sort of reprieve, for obvious reasons. The ransom demanded rarely involves baubles such as gold or gems:</ins> fire giants prefer payment in mithral, adamantine, or different slaves <cite>(ones with more useful talents or stronger backs)</cite>. <strong><mark>[gi1]</mark></strong>
 
@@ -59,7 +59,7 @@ They still have slaves...
 
 # Gnolls
 
-# <ins>Removed content:</ins>
+## <ins>Removed content:</ins>
 
 Gnolls have little variation in personality and outlook. They are collectively an elemental force, driven by a demon lord to spread death and destruction. <strong><mark>[gn1]</mark></strong> The only real opportunity for interaction with gnolls is provided by the cultists that sometimes accompany a war band. This humanoid rabble might have information the characters need or could even be former friends corrupted to the worship of Yeenoghu. <strong><mark>[gn2]</mark></strong> To portray a gnoll that is more intelligent or social than the usual, you can give it characteristics similar to Yeenoghu cultists. <strong><mark>[gn3]</mark></strong>
 
@@ -85,7 +85,7 @@ They're still pretty samey, kill for the dark lord Satan, and are sometimes upli
 
 # Mind Flayers
 
-# <ins>Removed content:</ins>
+## <ins>Removed content:</ins>
 
 Mind flayers are inhuman monsters that typically exist as part of a collective colony mind. Yet illithids aren’t drones to an elder brain. Each has a brilliant mind, personality, and motivations of its own. <strong><mark>[mi1]</mark> <mark>[mi2]</mark></strong>
 
@@ -107,7 +107,7 @@ They're still capable of individuality...
 
 # Orcs
 
-# <ins>Removed content:</ins>
+## <ins>Removed content:</ins>
 
 With their culturally ingrained tendency to bow before superior strength, orcs can be subjugated by a powerful and charismatic individual. Evil human spellcasters and rulers in particular have a penchant for enslaving or deceiving orcs into service. A leader backed by a great military force could swoop down upon a tribe, kill its leaders, and cow the rest of the orcs into submission.  A spellcaster typically takes a more devious approach, using magic to conjure up false omens that strike fear into the tribe and make it obedient. A wizard might manipulate a few of the orcs that rank just below the war chief, using them as pawns to help overthrow the leader. The wizard validates the change in command with signs supposedly delivered by the gods <cite>(which are in truth nothing but a few well-cast illusions)</cite>, and turns the tribe into a strike force eager to do the bidding of its new chief.  The survivors of a tribe scattered by defeat sometimes fall back on their fighting skills to find employment, individually or in small groups, with whoever is willing to hire them. These mercenaries, while they might pride themselves on their seeming independence, nevertheless strive to follow through on their end of a bargain, because being paid by one’s employer is better than being hunted down for breaking a deal. <strong><mark>[or1]</mark></strong>
 
@@ -143,7 +143,7 @@ They still get pwned by more powerful people, they are still raised in a hyper w
 
 # Yuan-Ti
 
-# <ins>Removed content:</ins>
+## <ins>Removed content:</ins>
 
 Yuan-ti are emotionless, yet feel completely superior to humanoids, in the same way that a human can feel superior to chickens or rabbits — in a matter-of-fact, completely objective way that doesn’t brook any second-guessing. To a yuan-ti, there are only three categories of creature:</ins> threat, yuan-ti, or meat. <strong><mark>[yu1]</mark></strong> Threats are powerful creatures such as demons, dragons, and genies. Yuan-ti are any of their own kind, regardless of caste; although a rival yuan-ti might be dangerous, and a weak or dead one might be potential food, it is first and foremost one of the true people and deserving of some respect. Meat includes any creature that is neither a threat nor a yuan-ti, possibly useful for a base purpose but not worthy of other consideration. Most yuan-ti consider it beneath themselves to speak to meat. Abominations and malisons rarely communicate directly with slaves except in emergencies <cite>(such as for giving battle orders)</cite>; at other times, slaves are expected to constantly be aware of the master’s mood, anticipate the master’s needs, and recognize subtle gestures of hands, head, and tail that indicate commands. <strong><mark>[yu2]</mark></strong> Only purebloods — which walk among humanoids and therefore have to learn how to speak to them civilly — practice interacting with meat-creatures. Much of their training involves suppressing their innate annoyance at having to speak to lesser beings as though they were equals, or being obliged to kowtow to a humanoid ruler as if the pureblood were merely an advisor. Pureblood spies feel a sort of aloof contempt toward meat-creatures, but they can affect a pleasant tone, and speak to such creatures with a silver tongue that disguises their true feelings. Under normal circumstances, yuan-ti are always calmly deferential to those of higher rank. They tend to be curt and formal with those of lower rank, for the differences between them aren’t a source of anger or disgust <cite>(emotions that the yuan-ti don’t feel anyway)</cite>, merely a fact of the natural order, and their culture long ago realized that treating the lower castes with a measure of detached respect prevents rebellion and advances the cause of the entire race. <strong><mark>[yu3]</mark></strong> <strong><mark>[yu4]</mark></strong>
 

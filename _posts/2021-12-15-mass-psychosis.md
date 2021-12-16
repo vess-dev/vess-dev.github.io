@@ -3,6 +3,8 @@ layout: post
 title: Essay | Mass Psychosis | 3500 words
 ---
 
+![Dice](/assets/dice.jpg "A picture of the deadliest weapon.")
+
 <hr>
 
 Let's talk about <em>Volo's errata.</em>
@@ -201,11 +203,13 @@ The Yuan-ti have a literal ton of lore still there. Everything is more or less i
 <br>
 <hr>
 
-# Final Conclusion
+# <ins>Final Conclusion</ins>
 
 Is everyone experiencing a mass psychosis?
 
 All lore seems to be intact, or at worst- in another book.
+
+Do people just read things without double checking and become outraged?
 
 <hr>
 

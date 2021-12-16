@@ -9,7 +9,7 @@ title: Essay | Mass Psychosis | 3500 words
 
 Let's talk about <em>Volo's errata.</em>
 
-Is the lore of Volo's *actually* being <ins>removed?</ins>
+Is the lore of Volo's *actually* being <a href="https://old.reddit.com/r/dndnext/comments/rg4jut/writeup_of_all_the_lore_thats_beein_removed_from/">removed?</a>
 
 <strong>TLDR: <ins><em>No.</em></ins></strong>
 

@@ -11,7 +11,11 @@ Is the lore of Volo's *actually* being removed?
 
 <strong>TLDR: <em>No.</em></strong>
 
-One thing may be considered "removed" which is the EXPLICIT statement of "orcs can be taught the magic of friendship", but this is still left more or less implied by offering the ability to roleplay as an orc in the first place.
+Two things may be considered actually "removed", which is:
+
+The EXPLICIT statement of "orcs can be taught the magic of friendship", but this is still left more or less implied by offering the ability to roleplay as an orc in the first place.
+
+Yuan-ti calling other things "meat".
 
 <br>
 <hr>

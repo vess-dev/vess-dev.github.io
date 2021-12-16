@@ -29,11 +29,11 @@ A beholder constantly fears for its safety, is wary of any creature that isn’t
 
 ## <ins>But was it **actually** removed?</ins>
 
-<strong><mark>[be1]</mark></strong> "but a beholder's mind accepts this attitude as normal and necessary- it is always alert to the possibility of assassination or betrayal by unknown threats that stand ready to pounce on the beholder the instant it lets its guard down. Complementing this ever-present, passive paranoia is the beholder's genius-level intelligence."
+<strong><mark>[be1]:</mark></strong> "but a beholder's mind accepts this attitude as normal and necessary- it is always alert to the possibility of assassination or betrayal by unknown threats that stand ready to pounce on the beholder the instant it lets its guard down. Complementing this ever-present, passive paranoia is the beholder's genius-level intelligence."
 
 <cite>(Volo's, page 6)</cite>
 
-<strong><mark>[be2]</mark></strong> A beholder believes it is superior to all other entities. Unintelligent foes are regarded as food or pets. An intelligent creature is seen as food or a potential minion. A beholder's true rivals are other beholders, for only another beholder has the intellect, power, and magic to threaten another of its kind. Most of a beholder's mental activity is devoted to unearthing plots against itself (real or imaginary), planning attacks against known rivals, and preparing its defenses against all possible threats. It considers itself the center of the world, in a narcissistic way; of course the clan of duergar moving into its territory is because a rival is trying to oust it, of course the gang of adventurers in its lair were sent to kill it by a cowardly rival, and so on, because it is the perfect example of beholderness and all other creatures are jealous.
+<strong><mark>[be2]:</mark></strong> A beholder believes it is superior to all other entities. Unintelligent foes are regarded as food or pets. An intelligent creature is seen as food or a potential minion. A beholder's true rivals are other beholders, for only another beholder has the intellect, power, and magic to threaten another of its kind. Most of a beholder's mental activity is devoted to unearthing plots against itself (real or imaginary), planning attacks against known rivals, and preparing its defenses against all possible threats. It considers itself the center of the world, in a narcissistic way; of course the clan of duergar moving into its territory is because a rival is trying to oust it, of course the gang of adventurers in its lair were sent to kill it by a cowardly rival, and so on, because it is the perfect example of beholderness and all other creatures are jealous.
 
 <cite>(Volo's, page 6)</cite>
 
@@ -53,7 +53,7 @@ Fire giants on many occasions have ransomed captives back to their families or c
 
 ## <ins>But was it **actually** removed?</ins>
 
-<strong><mark>[gi1]</mark></strong> SLAVES: LABOR-SAVING DEVICES
+<strong><mark>[gi1]:</mark></strong> SLAVES: LABOR-SAVING DEVICES
 
 It takes a lot of work to build and maintain a fire giant stronghold. Most of that effort comes not from the giants themselves, but from the slaves that they keep. Fire giants enslave other creatures to accomplish unskilled labor, so the giants can concentrate on the more vital aspects of foundry operation and crafting that only they are capable of. They aren't overly cruel masters, but neither are they particularly kind- they are uncaring about their slaves, because slaves aren't giants, and there are always more to be had if the supply runs low. Most creatures that fire giants capture are put to work in the giants' mines or on surface farms the giants claim as part of their domain. Even master crafters of other races are consigned to unskilled labor, because so few of them have talents the fire giants consider "skilled." Only creatures that have skills the fire giants need but don't practice (because they aren't valued in the ordning), such as accounting, brewing, and medicine, are allowed to continue plying their trades. Skilled slaves receive better treatment, at least in the sense that an owner uses less force with a delicate tool, but as a rule fire giants view humans in much the same way that humans view horses they have utility if properly directed, and some might be prized for rare qualities, but even the smartest, best trained horse isn't a person. That said, it's not unheard of for a fire giant to "consult with" a slave physician when it falls ill, or with a slave engineer right before beginning a difficult stage of tunnel excavation. (Such a consultation would only be to ensure that the right tools and materials are on hand for the excavation, not to solicit a second opinion on the giant's personal assessment of the structure's integrity.) Giants that stand low in the ordning are assigned to manage slaves and mining operations. Excavating mine shafts and digging out ore is important work, but smelting and metalwork are valued more highly than effort spent keeping a tunnel from collapsing on slaves.
 
@@ -75,15 +75,15 @@ Gnolls have little variation in personality and outlook. They are collectively a
 
 ## <ins>But was it **actually** removed?</ins>
 
-<strong><mark>[gn1]</mark></strong> Gnolls seek only to kill, and as such prefer to deal with weak, easy targets. An enemy that can fight back is an enemy to save for later. Gnolls have no sense of honor, glory, or individual achievement. They care only for the raw number of creatures they can slay. In the face of a gnoll incursion, it is best for refugees to seek shelter in castles and other fortified positions. Gnolls avoid protracted battles if they can, much preferring to slaughter those that can't defend themselves.
+<strong><mark>[gn1]:</mark></strong> Gnolls seek only to kill, and as such prefer to deal with weak, easy targets. An enemy that can fight back is an enemy to save for later. Gnolls have no sense of honor, glory, or individual achievement. They care only for the raw number of creatures they can slay. In the face of a gnoll incursion, it is best for refugees to seek shelter in castles and other fortified positions. Gnolls avoid protracted battles if they can, much preferring to slaughter those that can't defend themselves.
 
 <cite>(Volo's, page 35)</cite>
 
-<strong><mark>[gn2]</mark></strong> Gnolls wander the land continually in search of new victims, rarely sleeping and never settling down. Only a large-scale assault, such as the massacre of an entire village, can satisfy their desire even temporarily. A sated gnoll rests, knowing that it has pleased Yeenoghu. Its relief is short, no more than a few days, before the gnoll once again becomes a slave to its desires. Strength, hunger, and fear are the three concepts that every gnoll extols. Strength allows a gnoll to overwhelm, kill, and devour a foe. Hunger motivates a gnoll to go forth and slay in Yeenoghu's name. Fear is a weapon used against enemies to make them easy prey. In concert, all three play a role in advancing Yeenoghu's goals.
+<strong><mark>[gn2]:</mark></strong> Gnolls wander the land continually in search of new victims, rarely sleeping and never settling down. Only a large-scale assault, such as the massacre of an entire village, can satisfy their desire even temporarily. A sated gnoll rests, knowing that it has pleased Yeenoghu. Its relief is short, no more than a few days, before the gnoll once again becomes a slave to its desires. Strength, hunger, and fear are the three concepts that every gnoll extols. Strength allows a gnoll to overwhelm, kill, and devour a foe. Hunger motivates a gnoll to go forth and slay in Yeenoghu's name. Fear is a weapon used against enemies to make them easy prey. In concert, all three play a role in advancing Yeenoghu's goals.
 
 <cite>(Volo's, page 34)</cite>
 
-<strong><mark>[gn3]</mark></strong> Almost all cultists are brutish individuals touched by insanity, one step above the hyenas that trail behind the war band's path. They aren't gnolls, and thus don't receive their inspiration directly from Yeenoghu. Yet exceptions do occur. If an individual of great intelligence and great ability heeds Yeenoghu's call, the Lord of Savagery might elevate it to the leadership of its band. Such champions are rare, and a band led by a cultist is capable of feats that are beyond a group of gnolls- accomplishments that combine the gnolls' savagery with a humanlike level of intelligence and planning.
+<strong><mark>[gn3]:</mark></strong> Almost all cultists are brutish individuals touched by insanity, one step above the hyenas that trail behind the war band's path. They aren't gnolls, and thus don't receive their inspiration directly from Yeenoghu. Yet exceptions do occur. If an individual of great intelligence and great ability heeds Yeenoghu's call, the Lord of Savagery might elevate it to the leadership of its band. Such champions are rare, and a band led by a cultist is capable of feats that are beyond a group of gnolls- accomplishments that combine the gnolls' savagery with a humanlike level of intelligence and planning.
 
 <cite>(Volo's, page 37)</cite>
 
@@ -103,11 +103,11 @@ Mind flayers are inhuman monsters that typically exist as part of a collective c
 
 ## <ins>But was it **actually** removed?</ins>
 
-<strong><mark>[mi1]</mark></strong> Among their own kind, they form a network of minds. Each mind flayer is an individual node of the network, taking on specific tasks, sharing information, and so on. At the center of this network is the elder brain. The elder brain is the most powerful member of a mind flayer colony. Just as mind flayers treat thralls made from captured humanoids, an elder brain expects perfect obedience from the illithids that dwell in its colony.
+<strong><mark>[mi1]:</mark></strong> Among their own kind, they form a network of minds. Each mind flayer is an individual node of the network, taking on specific tasks, sharing information, and so on. At the center of this network is the elder brain. The elder brain is the most powerful member of a mind flayer colony. Just as mind flayers treat thralls made from captured humanoids, an elder brain expects perfect obedience from the illithids that dwell in its colony.
 
 <cite>(Volo's, page 72)</cite>
 
-<strong><mark>[mi2]</mark></strong> In some ways, a mind flayer colony is like a great library of lore stored within its members' minds, with the elder brain as its librarian. Each individual illithid represents a category or subsection within the library. One mind flayer might specialize in biology, while another is an expert in defending the colony. Given that an individual mind flayer has a near-genius intellect, the extent of its knowledge is equivalent to the highest levels of scholarship attainable by humans.
+<strong><mark>[mi2]:</mark></strong> In some ways, a mind flayer colony is like a great library of lore stored within its members' minds, with the elder brain as its librarian. Each individual illithid represents a category or subsection within the library. One mind flayer might specialize in biology, while another is an expert in defending the colony. Given that an individual mind flayer has a near-genius intellect, the extent of its knowledge is equivalent to the highest levels of scholarship attainable by humans.
 
 <cite>(Volo's, page 72)</cite>
 
@@ -131,21 +131,21 @@ The lore of humans depicts orcs as rapacious fiends, intent on coupling with oth
 
 ## <ins>But was it **actually** removed?</ins>
 
-<strong><mark>[or1]</mark></strong> A group of orcs can be dominated by evil creatures of immense power, and they accept this subservient role either because they are forced to or because it offers them a measure of security while they engage in their savagery. Green dragons, for instance, sometimes use orcs as sentinels or shock troops. Orcs are sometimes attracted to the service of frost giants or fire giants, who then "reward" their loyalty by turning them into slaves. If a tribe is defeated and driven from its lair, the survivors might come under the sway of a strong but dimwitted creature, such as a hill giant or an ogre. It is also not unheard of for an exceptionally strong and charismatic evil human to lead stray orcs that no longer have a tribe to call their own.
+<strong><mark>[or1]:</mark></strong> A group of orcs can be dominated by evil creatures of immense power, and they accept this subservient role either because they are forced to or because it offers them a measure of security while they engage in their savagery. Green dragons, for instance, sometimes use orcs as sentinels or shock troops. Orcs are sometimes attracted to the service of frost giants or fire giants, who then "reward" their loyalty by turning them into slaves. If a tribe is defeated and driven from its lair, the survivors might come under the sway of a strong but dimwitted creature, such as a hill giant or an ogre. It is also not unheard of for an exceptionally strong and charismatic evil human to lead stray orcs that no longer have a tribe to call their own.
 
 <cite>(Volo's, page 86)</cite>
 
-<strong><mark>[or2]</mark></strong> Young orcs must mature quickly in order to survive their perilous upbringing. Their early years are fraught with tests of strength, fierce competition and nothing in the way of maternal or paternal love. From the time a child can wield a stick or a crude knife, it asserts itself and defends itself while learning to fight, to survive in the wild, and to fear the gods. The children that can't endure the rigors of a life of combat are culled from the main body of the tribe, taken into the depths of the lair, and left for the followers of Yurtrus or Shargaas to accept or reject.
+<strong><mark>[or2]:</mark></strong> Young orcs must mature quickly in order to survive their perilous upbringing. Their early years are fraught with tests of strength, fierce competition and nothing in the way of maternal or paternal love. From the time a child can wield a stick or a crude knife, it asserts itself and defends itself while learning to fight, to survive in the wild, and to fear the gods. The children that can't endure the rigors of a life of combat are culled from the main body of the tribe, taken into the depths of the lair, and left for the followers of Yurtrus or Shargaas to accept or reject.
 
 <cite>(Volo's, page 85)</cite>
 
-* Note: "Orc's can learn empathy" seems to not be clearly stated anywhere, but seems to be implied in the entire section as a possibility (The fact you can play an Orc in the first place). I would consider this a partial removal.
+* Note: "Orcs can learn empathy" is not be clearly stated anywhere now, but seems to be implied in the entire section as a possibility (The fact you can play an orc in the first place). I would consider this a partial removal.
 
-<strong><mark>[or3]</mark></strong> In order to replenish the casualties of their endless warring, orcs breed prodigiously (and they aren't choosy about what they breed with, which is why such creatures as half-orcs and ogrillons are found in the world). Females that are about to give birth are relieved of their other roles and taken to the lair's whelping pens, where they are tended to by Luthic's followers.
+<strong><mark>[or3]:</mark></strong> In order to replenish the casualties of their endless warring, orcs breed prodigiously (and they aren't choosy about what they breed with, which is why such creatures as half-orcs and ogrillons are found in the world). Females that are about to give birth are relieved of their other roles and taken to the lair's whelping pens, where they are tended to by Luthic's followers.
 
 <cite>(Volo's, page 85)</cite>
 
-<strong><mark>[or4]</mark></strong> Some half-orcs rise to become proud chiefs of orc tribes, their human blood giving them an edge over their full-blooded orc rivaIs.
+<strong><mark>[or4]:</mark></strong> Some half-orcs rise to become proud chiefs of orc tribes, their human blood giving them an edge over their full-blooded orc rivaIs.
 
 <cite>(PHB, page 40)</cite>
 
@@ -167,31 +167,31 @@ The ritual that produced the first yuan-ti required the human subjects to butche
 
 ## <ins>But was it **actually** removed?</ins>
 
-<strong><mark>[yu1]</mark></strong> They developed a philosophy of separating emotion from intellectual pursuits, allowing them to focus their energy on personal advancement and expanding their territory. They believed themselves to be the most enlightened mortals in the world, and in their hubris they sought to become ever greater.
+<strong><mark>[yu1]:</mark></strong> They developed a philosophy of separating emotion from intellectual pursuits, allowing them to focus their energy on personal advancement and expanding their territory. They believed themselves to be the most enlightened mortals in the world, and in their hubris they sought to become ever greater.
 
 <cite>(Volo's, page 92)</cite>
 
-<strong><mark>[yu2]</mark></strong> Every yuan-ti settlement has a number of other creatures under its control, including intelligent humanoids, charmed or trained beasts, and even undead or conjured minions. Regardless of their nature, all are treated as slaves: no creature that is not a yuan-ti is fit for anything other than menial labor and subservience. Slaves that fail to follow orders or lag in their duties are dispatched or turned into broodguards.
+<strong><mark>[yu2]:</mark></strong> Every yuan-ti settlement has a number of other creatures under its control, including intelligent humanoids, charmed or trained beasts, and even undead or conjured minions. Regardless of their nature, all are treated as slaves: no creature that is not a yuan-ti is fit for anything other than menial labor and subservience. Slaves that fail to follow orders or lag in their duties are dispatched or turned into broodguards.
 
 <cite>(Volo's, page 95)</cite>
 
-<strong><mark>[yu3]</mark></strong> Yuan-ti put little value on humanoid lives, even those of their own slaves and cultists. They would poison children to carry out a threat against their parents, or turn one person into a broodguard in order to show her family the consequence of resistance. They might refrain from provoking others' feelings if doing so could adversely affect the yuan-ti's plans, but they understand humanoid psychology well enough to know that they can get away with this casual disregard for life almost anytime.
+<strong><mark>[yu3]:</mark></strong> Yuan-ti put little value on humanoid lives, even those of their own slaves and cultists. They would poison children to carry out a threat against their parents, or turn one person into a broodguard in order to show her family the consequence of resistance. They might refrain from provoking others' feelings if doing so could adversely affect the yuan-ti's plans, but they understand humanoid psychology well enough to know that they can get away with this casual disregard for life almost anytime.
 
 <cite>(Volo's, page 96)</cite>
 
-<strong><mark>[yu4]</mark></strong> Because purebloods can easily pass as human, their most important function is as agents of the yuan-ti in the outside world. They can live incognito among humans as diplomats, infiltrators, and spies. Because they get to wield power and influence while playing such roles, some purebloods surround themselves with luxury in their human guises and then become resentful when they have to return home and live under the caste system again.
+<strong><mark>[yu4]:</mark></strong> Because purebloods can easily pass as human, their most important function is as agents of the yuan-ti in the outside world. They can live incognito among humans as diplomats, infiltrators, and spies. Because they get to wield power and influence while playing such roles, some purebloods surround themselves with luxury in their human guises and then become resentful when they have to return home and live under the caste system again.
 
 <cite>(Volo's, page 95)</cite>
 
-<strong><mark>[yu5]</mark></strong> The serpent gods of the primordial world heeded the prayers of these people and hissed dark demands into their ears. The people tainted their souls by performing human sacrifices in the name of the gods, debased their flesh by cannibalizing their victims, and then performed a sorcerous ritual while writhing in pools filled with living snakes that enabled them to mix their flesh with that of serpents, becoming like the gods in body, thought, and emotion. Freed from the limitations of their human bodies, the yuan-ti used their new abilities to conquer new lands and expand their borders.
+<strong><mark>[yu5]:</mark></strong> The serpent gods of the primordial world heeded the prayers of these people and hissed dark demands into their ears. The people tainted their souls by performing human sacrifices in the name of the gods, debased their flesh by cannibalizing their victims, and then performed a sorcerous ritual while writhing in pools filled with living snakes that enabled them to mix their flesh with that of serpents, becoming like the gods in body, thought, and emotion. Freed from the limitations of their human bodies, the yuan-ti used their new abilities to conquer new lands and expand their borders.
 
 <cite>(Volo's, page 92)</cite>
 
-<strong><mark>[yu6]</mark></strong> During their ascension ages ago, the yuan-ti freed themselves from the yoke of their human emotions. Now they view the world from a pragmatic and dispassionate perspective. They understand emotional connections in a detached, intellectual way, and recognize that these feelings in others can be exploited through bribes, favors, or threats. As creatures devoid of emotion, yuan-ti exhibit behavior and use tactics that exemplify that outlook (or lack of one).
+<strong><mark>[yu6]:</mark></strong> During their ascension ages ago, the yuan-ti freed themselves from the yoke of their human emotions. Now they view the world from a pragmatic and dispassionate perspective. They understand emotional connections in a detached, intellectual way, and recognize that these feelings in others can be exploited through bribes, favors, or threats. As creatures devoid of emotion, yuan-ti exhibit behavior and use tactics that exemplify that outlook (or lack of one).
 
 <cite>(Volo's, page 95)</cite>
 
-<strong><mark>[yu7]</mark></strong> The serpent gods don't wish to be brought low, or to be bled of power as Merrshaulk was, so they mollify their worshipers with pronouncements that hint at what the supplicants seek. The truth is never easy to ferret out, but rarely an exceptionally clever yuan-ti succeeds in attaining divine form and vanquishing its benefactor. This cannibalistic pressure from mortals means that the lower ranks of the serpent gods experience a change every century or so, although often it is the newest yuan-ti godling that falls prey to the next one's ambitions.
+<strong><mark>[yu7]:</mark></strong> The serpent gods don't wish to be brought low, or to be bled of power as Merrshaulk was, so they mollify their worshipers with pronouncements that hint at what the supplicants seek. The truth is never easy to ferret out, but rarely an exceptionally clever yuan-ti succeeds in attaining divine form and vanquishing its benefactor. This cannibalistic pressure from mortals means that the lower ranks of the serpent gods experience a change every century or so, although often it is the newest yuan-ti godling that falls prey to the next one's ambitions.
 
 <cite>(Volo's, page 92)</cite>
 
